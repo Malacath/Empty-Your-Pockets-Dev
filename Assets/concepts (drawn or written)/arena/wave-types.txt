@@ -1,0 +1,37 @@
+
+
+WEAK HORDE
+
+A constant flow of small enemies will spawn from one side of the arena, periodically changing sides. These are the longest waves and last about 3-4 minutes. This mainly goes as a endurance test for the player.
+
+monsters that could spawn from these waves:
+
+ - worker spiders
+ - debuffed worker spiders
+ - smallbirds
+ - some sort of aggresive rabbit? (what)
+ - do mandrakes attack?
+
+
+COORDINATED ATTACK
+
+Bats will spawn in a circling position around the player, followed by ceiling spiders climbing down on specific positions. Afterwards, warrior spiders will spawn from the corners of the arena. Finally MacTusk and Son will appear from the sides of the arena.
+
+
+RANDOM ATTACK
+
+Random sets of monsters will spawn from any side.
+
+
+THE GAUNTLET
+
+Two pairs of rock lobsters will spawn, one from the left side, and one from the right. This fight takes a long time so we could debuff these lobsters. Afterwards armored werepigs will spawn from the corners of the arena. Finally, a small treeguard will spawn from the north of the arena.
+
+
+THE CAGE
+
+Three bosses will spawn at once, 2 Treeguards and a Spider Queen.
+
+
+-need to think up more-
+

@@ -1,0 +1,36 @@
+the sketch is quick as hell and might not make much sense at first.
+
+the arena is a medium sized plateau in the middle of a greenish void.
+
+there's a stone wall that has a few stone buttons. they're "shops" where the player can purchase things between waves so he can get some help, for example, the button representing a pig would allow the player to get different followers for different prices.
+
+you can only purchase things with underworld money, which are blue glowing spheres.
+
+there would be an announcer located somewhere in the arena, preferably in a section of land away from the arena. we need some way to make his messages be able to be seen in any place.
+
+there would be spawners, things that would create monsters that will inmediately (as soon as spawned) target the player.
+
+monster spawns would be organized, meaning that for example some bats will first fly around the player and attack, as werepigs spawn from the sides and ceiling spiders come down slowly from the ceiling. after killing those, another set of enemies would spawn.
+
+there is a huge boss door located somewhere in the arena, most of the time it's closed, when it opens it will make the earth shake and it will violently open, spawning a boss monster.
+
+pherpaps this boss door could be the stone wall itself.
+
+the escape door lets the player escape the arena should the situation turn grim, we need some sort of way to make  it pretty bad for the player to escape mid-wave.
+
+time is null inside the arena, making time freeze on the overworld while the player in in the underworld. -Irontaco
+
+Problems on my side:
+-Organized patterns for entities to trace will be either impossible or look really sketchy (i.e. Bats circling the player, though I just heard that already exists)
+-the greenish void is only achievable via colourcubes which would also make all outlines of everything green. There's a file in the artowrk folder to experiment with it though
+-I'm not 100% certain yet how to handle time. All night and not displaying a clock is easy though
+
+
+
+Also, where does the light come from? Is there a plan of a kind of adding a kind of light source? Maybe something like a glowing orb akin to the lightbulb in Blackreach from Skyrim. -Hanno
+
+I was thinking of that place having a light coming from nowhere, a dull lighting coming from the void itself.
+
+Or maybe we coulld make it creepier and have very few light sources which could be actually destroyed by monsters. -Irontaco
+
+I like that idea  ^^ -Hanno

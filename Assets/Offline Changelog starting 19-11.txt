@@ -1,0 +1,14 @@
+0:39 19/11 Irontaco:
+
+-Added artwork for the Item Shop, WIP.
+-Added Item Shop prefab.
+
+0:33 20/11 Irontaco:
+
+-Fixed artwork for the Item Shop, finished.
+-Added animations for the Item Shop.
+-The Item Shop is now a section.
+-Gave stuff some strings.
+-Now working on item artwork, the merchant will be done way later due to the complexity of his animations.
+
+CHANGELOG ENDS HERE

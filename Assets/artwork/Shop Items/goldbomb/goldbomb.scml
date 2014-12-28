@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0">
+        <file id="0" name="onground.png" width="148" height="110" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="projectile.png" width="148" height="99" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="goldbomb">
+        <animation id="0" name="idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="onground" folder="0" file="0" abs_x="1.785235" abs_y="-0.666667" abs_pivot_x="0.714765" abs_pivot_y="0.166667" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="onground">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="1.785235" y="-0.666667" pivot_x="0.714765" pivot_y="0.166667"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="shot" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="onground" folder="0" file="1" abs_x="1.838926" abs_y="1.033333" abs_pivot_x="0.661074" abs_pivot_y="0.466667" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="onground">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="1.838926" y="1.033333" pivot_x="0.661074" pivot_y="0.466667"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

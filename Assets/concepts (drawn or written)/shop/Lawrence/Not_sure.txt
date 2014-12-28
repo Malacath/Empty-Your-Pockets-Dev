@@ -1,0 +1,329 @@
+Lawrence-something-something's (lol) talking:
+
+Hey guys, it is an honor for me to take part of this mod-collaboration, but since I don't know well what to do, for now I'll write all the ideas my mind can spit out, ok?
+
+*Note: don't pay attention if I wrote something grammatically stupid...
+
+Here they are:
+
+*Note2: The item DESCRIPTIONs are supposed to appear in the store menu
+
+ ***WEAPONS***
+
+
+	- NAME: Pocket Jumper;
+		DESCRIPTION: "The modern gentleman haven't time to retrieve a thrown weapon."
+		APPEARANCE: Looks like a dagger;
+		STATS: damage: low;
+		SKILLS: magic throwing weapon: when thrown, the dagger go to the target very quickly; then you do not need to catch it, 			when it hits the target, it will come back in you pocket (with -N% of durability)
+
+-- Could have a less magical look. I'll look into it --Irontaco
+
+	- NAME: Iron Sphere Fist
+		DESCRIPTION ""
+		APPEARANCE: A iron sphere that hides the hand
+		STATS: average damage
+		SKILLS: -
+
+-- A true no-weapon melee weapon, i like that. Could be a boxing glove? --Irontaco
+-- It would be nice --Lawrence 
+
+	- NAME: Classic Green Poison;
+		DESCRIPTION: "Admire the lethality of the most trivial of poisons."
+		APPEARANCE: like the name says;
+		STATS: damage: low (hit), very-low (poison damage for N seconds)
+		SKILLS: you can throw it at enemies or use it to poison some weapons (example: recipe: poison + axe = poisoned axe), when a weapon is poisoned, his durability decreases, but it can poison the enemies (of course). A poisoned enemy lose N health each second for N seconds, and maybe it turns green (wow, that's creativity...)
+
+--Huh this sounds interesting. We could have different sort of poisons. --Irontaco.
+
+	- NAME: Cute Flower of Dismemberment;
+		DESCRIPTION: "Advanced gardening for serial murderers."
+		APPEARANCE: a seed in pocket; when grown, it's a giant daisy-flower with the cutest face you could ever imagine;
+		STATS: damage: medium-huge;
+		SKILLS: the player must plant this on the ground, at first, it's a normal flower. Grows in 10 seconds, in this then seconds is vulnerable (the player must pay attention about not making enemies step on it, or it will be killed), when is full grown, the flower attacks with two sharp-leafs all the enemies are walking near to him. It disappears in a cloud in N seconds.
+	Can also talk: phrases:
+			- Full Grown: - Hello world!
+				      - What a beautiful day to be born!
+				      - I feel pretty, oh so pretty! 
+			- Attacking:  - TAKE THAT!
+				      - Never seen an angry flower?
+				      - For my petals!
+			- Disappear:  - Have a nice day.
+				      - See you next time!
+				      - I must go! 
+
+--Seems like to much work for a single prefab that the player would mostly use once or twice, but i'll look into it. --Irontaco
+--Instead use it as a one-off-buyable and work like a houndius shooticus (or whatever it's called)? -Hanno
+
+
+	- NAME: Zauberlehrling;
+		DESCRIPTION: "No alive brooms, guaranteed."
+		APPEARANCE: Magic wand with a rune on the base;
+		STATS: nothing
+		SKILLS: cast a random effect (target - not applicable to bosses - can be used once at enemy)
+						- Effect#1: The target became smaller, quicker, with less health and attack;
+						- Effect#2: The target became bigger, slower, with more health and attack;
+						- Effect#3: The target a different enemy, who can be more or less dangerous;
+						- Effect#4: The target became a rock;
+						- Effect#5: The target explodes, damaging everything near;
+						- Effect#6: The target became angry (red colour): attack and speed is increased;
+						- Effect#7: The target became unhappy (blue colour): attack and speed is decreased;
+						- Effect#8: The target became a poop;
+						- Effect#9: The target became a flame that shoot fireballs at you, then turns normal;
+						- Effect#10: The target became poor (-$ animation on it?), won't drop money when 							     killed;
+						- Effect#11: The target became rich (+$ animation on it?), drop the double of money 						   	     when killed.
+
+	- NAME: Rats in the walls;
+		DESCRIPTION: "We were genuinely perplexed at the presence of rats."
+		APPEARANCE: A book;
+		STATS: (small sanity loss on using)
+		SKILLS: spawn N ghost rats that attacks the enemies. The rats disappears after the attack. 
+
+-- Oh hey could be a reskined jackalope. --Irontaco
+
+	- NAME: Hypenemious trumpet (not applicable to bosses)
+		DESCRIPTION: "Just blow into, man!"
+		APPEARANCE: A black - silver trumpet
+		STATS: none
+		SKILLS: spawn a tornado around the player. Every enemy near will be damaged and moved away
+--simplex just added a whirlwind to Up&Away and he said it is the most complicated thing he ever coded for Don't Starve. So unless we steal his code this isn't going to happen... -Hanno
+
+	- NAME: Bomb's Bomb made of bombs.
+		DESCRIPTION: "Copious explosions for playful parties."
+		APPEARANCE: The classic bomb...
+		STATS: Damage: 100
+		SKILLS: The 1st explosion will spawn two bombs, wich will explode and spawn 4 bombs (2 each), then, the 4 bombs will 			explode and spawn two final bombs each.
+
+	- NAME: Greedy golden bomb
+		DESCRIPTION: "BOOM! I'm rich!"
+		APPEARANCE: Golden-shiny bomb
+		STATS: Damage 100
+		SKILLS: Double the money-drop, for each enemy killed in a single explosion
+
+	
+
+
+***CLOTHES AND ARMORS***
+
+	- NAME: Mourning helm;
+		DESCRIPTION: "For those who feels too much happy."
+		APPEARANCE: An helm, tear-shaped with a black plume on the top;
+		STATS: gives +N defense 
+		SKILLS: Player loses -1 sanity each N seconds, 
+				less sanity he have, more defense the helm will give.
+			Also forces the player to say depressive things...
+				- Life is useless...
+				- Why is this happening to me?
+				- *SOB*
+				- *SIGH*
+				- I can't take it anymore...
+				- Dust to dust...
+				- I don't want to do this...
+				- I want to go home...
+				- I feel so hollow... And pointless...
+				- I'm sorry...
+
+	- NAME: Wrathful Horned helmet
+		DESCRIPTION: "More blood, more strenght!"
+		APPEARANCE: Like a Viking helm
+		STATS: +1 defense
+		SKILLS: Attack increases every 2 enemies killed, max attack bonus + 20. In arena, the bonus will reset when the enemy 			wave ends. Out of the arena, it will reset at sunrise.
+
+-It'd be better if the bonus ended after certain period of time, so the player can pull out some combos or something. For higher levels of "blood lust" there will be less time to get the next kill before the effect dissapears. For example:
+
+2 kills --> 2 minutes left
+5 kills --> 1 minute left
+10 kills --> 30 seconds left
+20 kills --> 15
+40 kills -- 7 
+
+Getting a kill would reset the timeleft back to the set number.
+
+--Irontaco.
+
+
+	- NAME: The Bonifate hat;
+		DESCRIPTION: "Buy! Buy! It can be your lucky day!"
+		APPEARANCE: A white top hat,
+		STATS: nothing
+		SKILLS: gives the player a chance to dodge enemies attacks (set damage to 0);
+			gives a chance to drop more money from a killed enemy.
+
+	- NAME: Celeripedean amulet;
+		DESCRIPTION: "Run like hell!"
+		APPEARANCE: A bolt-shaped necklace,
+		STATS: -
+		SKILLS: the wearer's is more vulnerable to attacks, but can run very fast.
+			when equipped, starts to loss durability: 1 each second
+
+-- How about some heavy hunger drain for this? --Irontaco
+-- It would make sense --Lawrence
+
+	- NAME: Mirror armor;
+		DESCRIPTION: "Deflect the pain in the face of your enemies!"
+		APPEARANCE: like a mirror!
+		STATS: average defense
+		SKILLS: 50% of the damage is transferred to the attacker.
+
+-- For some of your sanity/hunger? Could not work every time? --Irontaco
+-- Maybe it can deflect only... (for example) 3 of 5 attacks or less, and yes I think some sort of payment in sanity or hunger would balance... --Lawrence
+
+	- NAME: Not today;
+		DESCRIPTION: "Teleports you away from troubles."
+		APPEARANCE: a shiny blue armor.
+		STATS: average defense
+		SKILLS: if player's health is < 10%, the armor disappears and the player is teleported in a safe place (maybe a 			checkpoint)
+		
+-- Could be just a few meters away from the enemies. This could possibly work badly with the Retribution bomb. --Irontaco
+--It would simply make one effect redundant.. -Hanno
+--What if, when the health goes <10%, player simply became invisible for N seconds, so he would have time to go away amd heal -- Lawrence
+
+	- NAME: Cheap armor
+		DESCRIPTION: "Few money? No problem, we are thinking about you!"
+		APPEARANCE: basically, it's an armour made of metal pots and pans.
+		STATS: low defense
+
+-- It'd look pretty funny if the pots and pans were rusty as hell. --Irontaco.
+
+	- Name: Cheap helmet
+		DESCRIPTION: "Few money? No problem, we are thinking about you!"
+		APPEARANCE: It's a colander
+		STATS: low defense
+	
+
+***OTHER ITEMS***
+
+	- NAME: Mordecai, the companion axe:
+		DESCRIPTION: "A loyal friend that cuts in two who annoys you."
+		APPEARANCE: basically an axe with legs
+		STATS: health: 50, attack 5, speed 7
+		SKILLS: follows the player and attacks enemies until death. Can be upgraded.
+		RELATED PREFABS: - Sharpener stone: Increase the attack by 1: max upgrades: 5
+				 - Iron bands: Increase the health by 10: max upgrades: 10
+				 - Oil: Increase the speed by 1, max upgrades: 5
+	I hope this can also chop trees for you  ; )  - Hanno
+--Hey animations for this could be easy enough to do, i'll look into it!. --Irontaco.
+
+	- NAME: Obed, sacrifical friend:
+		DESCRIPTION "He will give his life for you."
+		APPEARANCE: it's a flying... Something
+		STATS: none
+		SKILLS: follows the player, if the player dies, Obed suicide and instantly resurrect his friend.
+
+--This could be some sort of really expensive meat effigy. --Irontaco.
+
+	- NAME: Illegal barter-deceiver amulet: (obviously, can't be bought from the shopkeeper)
+		DESCRIPTION "-"
+		APPEARANCE: A White necklace with a black gem on it.
+		STATS: none
+		SKILLS: hypnotize the shopkeeper. 25% will be removed from prices. (Set consumption to buying ??)
+
+--Hm this could possibly be overpowered. We'd need to find some balance for it and also have some sort of bad effect. --Irontaco.
+--What if it could be used for buy only one thing, and make this item very rare to drop/find? --Lawrence
+ 
+
+
+	- NAME: Old man's miserly hand
+		DESCRIPTION: "There were no cases of past-present-future Christmas ghosts."
+		APPEARANCE: A old man's hand with long nails;
+		STATS: Damagex2
+		SKILLS: When equipped, doubles the damage of the weapon the player is using, but halves the money dropped for each 			kill.
+
+--Maybe we could have some sort of "trinket" slot ala isaac? --Irontaco
+--This would only make sense if we have a decent amount of trinkets. I'd go for at least 10-15 pieces  -Hanno
+
+
+	- NAME: SandwiTch
+		DESCRIPTION: "A sandwich made by a witch! Clever, uh?"
+		APPEARANCE: Looks like a normal sandwich
+		STATS: -
+		SKILLS: when eaten, hunger will go to 100%, health to 50% and the player will be invulnerable for N seconds.
+
+--This could actually work very well for those times where you run out of food. --Irontaco.
+--How will it be balanced though? It's pretty awesome right now.  -Hanno
+--Another possible description that references the waverly mod?:
+
+"A gift from halloween!"
+
+-Irontaco
+
+
+
+*******************************
+
+Ideas for different arenas:
+
+You're trying to code-kill me with these, don't you  xD
+but actually I like the idea of having an arena that is more casual and you get one random of all these, whereas the hell/underworld arenas are more serious and dangerous. But it's a LOT of work, so we'll see -Hanno
+
+	- NAME: Fire arena: 
+			APPEARANCE: Fire all around, red, orange, yellow colors.
+			PROPRIETIES: all enemies are invulnerable to fire attacks, and burns the player when attacking.
+	- NAME: Slime arena:
+			APPEARANCE: Slime pattern texture for ground, traps around the arena
+			PROPRIETIES: everything slips.
+	- NAME: Trap arena: 
+			APPEARANCE: Dull colours.
+			PROPRIETIES: projectiles will randomly cross from outside. Bombs will rarely rain from the sky.
+
+	- NAME: Gladiators' arena:
+			APPEARANCE: Colosseum-like, with people watching.
+			PROPRIETIES: items will be randomly dropped by the people. Those items can be healers, weapons, but also 					    dangerous items like bombs and traps. At the end of the waves there's always a boss.
+
+--Having people around doesn't seem like a good idea to me! Also a colosseum would be so much pain to draw. --Irontaco
+
+	- NAME: Glue arena:
+			APPEARANCE: Like the slime arena.
+			PROPRIETIES: Everything is slowed down.
+
+	- NAME: Nightmare arena:
+			APPEARANCE: like the normal one, but with darkness.
+			PROPRIETIES: There's no light. The player will start casting a short ranged light when entering in this arena.
+
+--This is actually what i had in mind for Maxwell's challenge in Will's side mission. Could be a unlock, maybe? --Irontaco.
+
+	- NAME: Psychedelic arena:
+			APPEARANCE: like the normal one, but colours will periodically scramble.
+			PROPRIETIES: random colours and flashes to make more difficult seeing things.
+
+
+	- NAME: Speed kill Bonus arena:
+			APPEARANCE: everything looks precious!
+			PROPRIETIES: There's a prize of (for example) 1000 coins. Each second the prize will go down by 1. The goal is 					to kill all the enemies in less time possible.
+
+	- NAME: Crafting Bonus arena:
+			PROPRIETIES: there's a invincible boss that tries to kill you. There's also a lot of items randomly spawn in 				ground. To win in this arena, you must collect the items, use them for crafting stuff ( for example: for 				win you must craft 4 "kill the boss" items and place them to the ground).
+			More fast you do this, more big will be the final prize.
+
+	- NAME: Fat Guy Bonus arena:
+			PROPRIETIES: there's no enemies in this arena. There's a fat guy (like the pig king) sat on the middle, 				various types foods that randomly spawns all around (like vegetables, rabbits, birds) and some cooking 				pots. The goal of this arena is to fill the fat guy with foods (the bigger foods will fill him faster)
+			in the shortest time possible. More fast you do this, more big will be the final prize.
+	Awesome  xD  -Hanno
+
+--Can also work in a wave system, albeit modified! --Irontaco
+
+	- NAME: Collect Bonus arena:
+			APPEARANCE: labyrinth-like, there's a lot of "items" in ground, following the labyrinth pattern.
+			PROPRIETIES: the player must collect all the items before a timer goes out. He must also avoid three enemies.
+					If one of those enemies hit the player once, the game arena is over. The player is teleported 						outside, and win a prize in order of how many items he collected before being caught. 
+			
+
+***************************************************************************************
+***************************************************************************************
+
+For this: " -We're still thinking of the waves system, there's some extra danger 			involved in how mobs behave there, and how they spawn. "
+
+Maybe you already know, but there something very similar to waves in sanitymonsterspawner.lua (the component wich spawns the hallucinations) from here you can decide when and what spawn, and also time-frequency.
+	Each arena can give to the player a different (or differents) "monsterspawner"...
+
+****	
+
+"-Finding a way to make the danger beats start up at the right times" 
+
+Maybe you can add a "counter" variable in this way:
+	Each enemy on screen (or spawned) adds +1 at a"counter-music" variable and each enemy killed remove -1 from it (if > 0)
+
+		if counter-music = 0 then (play normal music)
+		if counter-music > 1 and < 10 (play combat music)
+		if counter-music > 10 and (play heavy combat music)
+

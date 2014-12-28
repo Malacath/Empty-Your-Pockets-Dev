@@ -1,0 +1,37 @@
+*Maxwell's atlas is modified in such a way he talks with a sad face, his sound files are replaced by the sad maxwell sounds.*
+
+*maxwell appears, will is unconcious to the south of where maxwell is standing, in this way:*
+
+	M
+
+
+	W
+
+
+MAXWELL_1 = "Hey, pal. Wake up.",
+
+*Will wakes up, and looks to maxwell*
+
+MAXWELL_2 = "I'm really sorry. I tried. I really tried, pal.",
+
+WILL_1 = "...", (thing is said but the character doesn't do talking animation)
+
+MAXWELL_3 = "Once i trap somebody in here it's impossible to bring them back.",
+
+MAXWELL_4 = "At least, that's what i suspect.",
+
+MAXWELL_5 = "It could be even Them trying to avoid me from bringing you back.",
+
+MAXWELL_6 = "Just hang in there, pal. You'll find a way, someday.",
+
+MAXWELL_7 = "I know you hate me for it. But you have to understand.",
+
+MAXWELL_8 = "I-, I'm really sorry.",
+
+*Maxwell leaves*
+
+*Will looks to the screen*
+
+WILL_2 = "Once again he leaves me here.",
+
+*Screen zooms out and the player gains control of Will*

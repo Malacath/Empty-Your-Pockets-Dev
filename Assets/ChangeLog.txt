@@ -1,0 +1,151 @@
+09.11 19:00 ; Malacath:
+-added this file
+-please write in here when you change a file for us all to keep track of things and never accidently override someone elses work
+-have fun  ^^
+
+09.11 20:00 ; Malacath:
+-updated whole modfolder
+-strings are now outsourced in "strings_eyp.lua" for ease of editing for y'all
+-tuning variables are now outsourced in "tuning_eyp.lua" for ease of editing for y'all
+-merchant "talks" to you on a minimal scale
+
+09.11 20:00 ; Irontaco:
+
+-created artwork for the money HUD
+-changed artwork for the money HUD, the money sign to be specific.
+
+09.11 00:10 ; Malacath:
+-lol  xD  specifying the times is odd since we live in different timezones
+-updated the mod with the HUD elements for the money widget
+
+09.11 23:00 ; FireFox:
+
+-Added Generic, Hurt and Death Sounds. Fixed Volume Issues.
+-Fixed Dating Error from 19.11 to 09.11.
+
+10.11 00:00 ; FireFox:
+
+-Fixed Silence Issue with Sounds. Added Mono Variants.
+
+12.11 17:00 ; Hanno (Malacath):
+-replaced sounds by the new mono variants (as intstructed by Irontaco) Sounds kinda odd to me, try what you think
+-added basic interaction with the merchant (short dialogue -> shop opens)
+
+12.11 18:00 ; Hanno:
+-added totally op character William with the following perks
+	-every befriended follower will stay for an additional day (subject to tuning)
+	-gets a 30% discount for all shops (subject to tuning)
+	-gains sanity passively proportional to the amount of money he holds
+-artwork for William is in "exported/anim/william" in high quality waiting to be edited. Images can be freely extended over the borders and adjustments can be made by moving pivots for in the included spriter project
+
+13-11 00:05 Irontaco:
+-Making the Surgery bed (Upgrade area) artwork. Expect stuff soon.
+
+13.11 23:00 ; Hanno:
+-added the first submodule to the shop, still WIP though
+
+14.11 24:00 ; Hanno:
+-added protos for items anti grue, retribution bomb and suicide bomb
+
+17.11 0:46 ; Irontaco:
+-Added artwork for the surgery bed, tweaked the prefab scales and animations. Feedback is appreciated.
+-Started work on other prefab artwork.
+
+21.11 20:00 ; Hanno:
+-synced up with local files
+-added first prototype for a hell'ish arena
+
+22.11 22:00 ; Hanno:
+-added my first idea of hell (the red firey one, not the green gloomy one)
+-added the life-vacuum special item and the wip chester-be-safe special item
+
+23.11 12:00 ; Hanno:
+-fixed Chester-Be-Safe
+
+23.11 13:00 ; Hanno:
+-added a greenish underworld prototype
+-two portals will spawn on each loading; upper one leads to the green and lower one to the red
+
+24.11 13:00 ; Hanno:
+-added custom worldgen screens, currently the only customisation are the strings
+-cleaned up some code
+
+04.12 00:17 ; Irontaco:
+
+-Almost finishing the Will character model. Only cleanup work left.
+
+07.12 1:22 ; Irontaco:
+
+-Added Firefox's new music and organized some folders.
+
+08.12 0:34 ; Irontaco:
+
+-Started work on the Will NPC animations.
+
+08.12 3:07 ; Irontaco:
+
+-Finished idle, freed, and freed_to_idle animation for the Will NPC.
+-The "freed_to_idle" animation is pretty ugly since getting it to look right would take a lot of sprite swapping. 
+-The freed animation may need some polishing.
+-Progressed on the Will playable character.
+
+09.12 22:15 ; FireFox:
+
+-Added a New Track for Will's Side Mission. " Wake Up Wilson ". Feel free to change the Title, If you must.
+
+10.01 16:00 ; Hanno:
+
+-Finally got back to some coding
+-Added a very simple mob for will, can't do anything
+-Played around with the worldgen screen a bit, just to see if it works
+-Added the two items that Lawrence did
+
+26.01 18:00 ; Hanno:
+
+-Added artwork for Anti Grue and Chester-Be-Safe
+-Fixed Anti-Grue
+-Added "simplextest" for testing animations
+
+27.01 21:00 ; Hanno:
+
+-Hooked up new artwork
+-Fixed up some of the code
+
+Before that ^, 05:00; Irontaco:
+
+-Added new artwork
+-Adjusted a few scripts to use the artwork, Silver now uses 3 variations of anim depending on the stacksize.
+-Added the Orb of Confusion, will explain later.
+-Mindshaker is supposed to be the accidental_weapon, need somebody to merge them :v
+
+28.01 15:00+ ; Hanno:
+
+-Merged Mindshaker and accidental_weapon
+-Fixed shop scripts
+-Spawns shops and merchant at spawn for debugging
+-Made shops use proper images
+
+06.02 4:15 ; Irontaco:
+
+-Added artwork for the life vacuum.
+-Needs to be scaled down.
+-Only has idle and deploy and idle anim for now!
+-Need sounds for it.
+-I like how it moves B)
+
+07.02 3:51 ; Irontaco:
+
+-Finished animations for the life vacuum.
+-Added inventoryimage.
+-Organized Artwork folder around.
+-Finished artwork for Bomb's bomb in a bomb (clusterbomb) and I Am Rich! (goldbomb)
+-Added shop upgrade icons, these need work and ill explain later.
+-Original artwork is inside GENERAL ITEM SHEET
+-things really goin' smoothly over here B)
+
+27.05 0:27 ; Irontaco: (THIS PART STARTS FROM THE MIDDLE OF THIS MONTH TO 27.05)
+
+-Started working on mod again.
+-Finished Shopkeeper atlas.
+-Wrote Reign of Giants Will lines.
+-Working on more item atlases.

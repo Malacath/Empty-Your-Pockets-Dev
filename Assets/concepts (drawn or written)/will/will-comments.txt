@@ -1,0 +1,10 @@
+About the problem zones:
+The "technically a skirt" part might not be a problem. With the new template we have the ability to increase the size of the individual bodyparts by an arbitrary amount. So as long as the relative positions can be kept this long coat can be realised. The only problem I can think of though would be that it might not overlap the legs but I'm not sure how the layering order of the animations is.
+Same goes for the long sleeves. We can simply make the sleeves that long and completely ignore the existence of hands. Again I'm not sure how this will play with the layering.
+I'll do some short tests sometime and let you know. -Hanno
+
+Change the name, please. - Xander
+
+Sure thing sir ^^  Let's just throw as many suggestions here as we can get so we find a fitting name. Wilfred and Will were already already up for debate. -Hanno
+
+I was thinking about Will more than the other one. Let's leave it as "Will". -Irontaco

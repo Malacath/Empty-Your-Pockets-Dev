@@ -1,0 +1,87 @@
+in some part of the shop, there's a old machine covered in old rags. it looks similar in appareance to the science machine?
+
+clicking this machine will open up a small window, telling you you're about to begin a side-quest, the player can refuse or continue.
+
+if the player clicks to continue, the shopkeeper will come to the player (by going into the earth and coming out nearby), and will talk about how that machine is incomplete and that it is for climbing into the minds of creatures.
+
+the player could do two things:
+
+1.- bring some materials seen in a old blueprint
+2.- actually begin some sort of small side mission to complete this machine.
+
+after completing this machine, will indirectly hints about what can actually be done with the machine, by saying something along the lines of "careful of where you point that thing!"
+
+you can use this item on will, doing this will suddenly cause the insanity effect on the screen (maybe by setting insanity to 0 for the duration of the effect?) and will generate a world.
+
+the world screen has a sepia, old tone and the texts can be sort of something like this:
+
+VERBS:
+
+Time-traveling (maybe)
+Going back into
+Climbing into
+Going into
+Nostalgia'ing
+Putting a sepia tone into
+Digging into
+Traveling into
+
+NOUNS:
+
+Will's mind
+some other point in time
+secrets
+old-time goodness
+Maxwell's sick humour
+William Carter's "you don't need to know about" stuff
+a observer perspective of things you shouldn't be digging into
+mysteries of the past
+[hey you're actually going to get a reward for this wow]
+another dimension separate from your right-now miserable reality
+Will's manliness (lol)
+
+once the generating is done, you will be put into a small, dense forest world, it doesn't have all the things there tend to be in the actual don't starve world, for example there's no tallbirds anywhere. (These were maxwell's experiments)
+
+there's two options of how this could be done:
+
+1.-
+
+you spawn as Will, there's a sepia tone in the screen. Some time passes and suddenly maxwell's giant head spawns nearby, telling you something.
+
+you have to roam the map and search for things maxwell has left behind, hinting at his backstory.
+
+as you grab the first thing, music will start playing. you will then proceed to use a modified divining rod to search for the notes. the world is small so it won't take long.
+
+After grabbing a thing Will will write a note, saying about his backstory and how about he wants to get to the source of this.
+
+ eventually you will go too far and reach maxwell himself, he will tell you, in rage, you shouldn't be digging into things you have no control of, and that you're in danger of Them noticing you
+
+He sort of "protects" you by punshing you, into becoming a plant, after this happens, the screen fades out, and you're taken back into the world, where you find out maxwell has come to the shop, he says he noticed something going on with that machine that was emitting some odd signals everywhere as you saw will's story.
+
+Maxwell will notice how much you did to know about Will, and he will challenge you to a very hard fight with his shadow self. Beating that will make Maxwell actually let go of Will, at least from his plant form. Maxwell will dissapear, and a cutscene will happen, Will will become a human and he will talk to the player, saying thank you for what you did, and he will tell you some backstory.
+
+Soon after, the earth will shake and Will will get pulled into the earth by shadow hands. He will say one final goodbye. It is unknown if he was freed or killed, but you unlock the character anyway.
+
+
+2.-
+
+you will spawn as the character you are using, there's a sepia tone in the screen and some unstability in the borders, aka. the insanity effect, you're standing near will's campfire, and maxwell's giant head is talking to him, you can't interact with the enviorement and will doesn't notice you, neither does maxwell.
+
+after some time of them talking, the earth shakes and will nor maxwell seems to notice so, something is happening to the machine you're using, shadow hands appear from everywhere and you're knocked unconcious until the next night.
+
+at this point will is not near the campfire and he grabbed most of his stuff and left. there's notes around the camp.
+
+as you grab the first note, music will start playing. you will then proceed to use a modified divining rod to search for the notes. the world is small so it won't take long.
+
+the notes tell about will's backstory and about how he wants to find out about maxwell, and that he won't stop until getting to the source of what is making all of this happen.
+
+after enough note-finding, you will reach will himself, who is apparently walking to a place similar to maxwell's home in adventure mode, you can follow him, and must.
+
+you will finally reach maxwell, who will start talking angrily to will on how he his digging into stuff he shouldn't be digging into, and how Them could end up noticing him in this world and the things that could possibly happen.
+
+Maxwell says sorry to will, and "protects" will by dragging him into the earth, soon after, a small root comes out of the earth.
+
+for some odd reason, things will stop and another maxwell will appear. this is the current-timeline maxwell who has also used the machine. he will tell you some stuff and 
+challenge you to a fight for will's freedom.
+
+the same things as option 1 happen after.

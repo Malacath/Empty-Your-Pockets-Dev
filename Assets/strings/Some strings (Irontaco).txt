@@ -1,0 +1,46 @@
+Examination for shop items
+
+BOMB_RETRIBUTION = "Retribution Bomb"
+DESC_BOMB_RETRIBUTIOn = "This bad boy will blow up and wreck everything around you, that is, if you receive enough bites-to-the-everything."
+
+Wilson : "This should be useful if i ever need it."
+Willow : "It will make some nice fireworks!"
+Wolfgang : "Wolfgang does not need mercy!"
+Wendy : "A explosive that will end everything so i can avoid the unevitable."
+WX-78 : "IT HAS A HURT-O-METER, I LIKE IT."
+Wickerbottom : "A small bomb with a blood pressure sensor, it triggers the bomb under certain conditions."
+Maxwell : "I might as well use one of these if the situation turns grim."
+Woodie : "This is pretty heavy, eh?"
+William : "I remember finding this from some old guy with a shotgun."
+
+
+BOMB_SUICIDE = "Take-you-with-me 2000"
+DESC_BOMB_SUICIDE = "This amazing bomb from the Great War has a sensor to check if your heart as stopped pumping blood! If it does then you will make an amazing, bloody spectacle out of yourself, along with everything in a 100 meter radius. Tends to rain thunder, too!"
+
+RECOMMENDATION_BOMB_SUICIDE = "Best used with a meat effigy."
+
+Wilson : "I haven't gone this far to just die here. Not without a boom."
+Willow : "It constantly ticks."
+Wendy : "A bomb that can end everything. Almost."
+Wolfgang : "If muscles fail then boom. Simple."
+wX-78 : "I WISH I HAD THIS IN THE NORMAL WORLD."
+Wickerbottom : "A massive explosive device from the last war, it detects the user's death and explodes with a incredible force."
+Maxwell : "This blows up a tiny hole in this despicable Earth."
+Woodie : "I hope this doesn't blow up before i need it to..."
+William : "It's better to go out with a bang than to burn out."
+
+
+ANTIGRUE = "Anti-Grue 2000"
+DESC_ANTIGRUE = "This tiny apparatus has a small sensor to detect if you're in the darkness, once it detects the Grue's prescence it will light a small lightbulb which can be kept going with a small crank. The crank tends to break quickly, so don't use it for too long!"
+
+REC_ANTIGRUE = "This is especially useful in the caves!"
+
+Wilson : "Such an amazing device! Edison must be proud."
+Willow : "I like the little crank it has."
+Wendy : "A small light to keep death away."
+Wolfgang : "The light bulb is so small! Ha!"
+WX-78 : "THIS TINY SLAVE WILL BE OF USE FOR A TINY WHILE"
+Wickerbottom : "The crank generates power for the light bulb. The sensor system is much more complicated, though."
+Maxwell : "Charlie will be disgruntled by this."
+Woodie : "The crank is made out of a twig, so tiny!"
+William : "The crank is just really fragile."

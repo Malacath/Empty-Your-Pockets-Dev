@@ -1,0 +1,122 @@
+General lines for Will-related stuff:
+
+will Side Mission:
+
+MISSION_NAME = "Back in the days",
+
+MISSION_DESC = "This machine you just built seems to be beeping near Will. There seems to be something important behind that guy's brain, if he has one, in the first place.",
+
+CONFIRM_MISSION = "You're about to step into a harsh mission to find out about Will's past and maybe get something from it! You can feel Their prescence drawing closer. Do you want to continue?",
+
+CONFIRM_MISSION = "If you fail this mission you will be put back where you're standing.",
+
+YES = "Why not?",
+NO = "Privacy, man!",
+
+GENWORLD_NAME = "Travelling through time!",
+
+VERBS = {
+	"Going back into",
+	"Travelling into",
+	"Digging into",
+	"Revealing",
+	"8mm photo-ifying",
+	"Adding Sepia to",
+	"Getting a stable connection with",
+	"Scaring Them away for now from",
+	"Calling Maxwell's attention to",
+	"Putting you into a temporal coma so you can see",
+	"Not breaking reality yet until you can see",
+	"Affecting your senses so you can feel",
+
+NOUNS = {
+	"Maxwell's secrets",
+	"William Carter's \"do not open\" box.",
+	"Will's mind",
+	"Will's repressed memories",
+	"deep areas of physchology!",
+	"BZZT--NOTGETTINGAWAY---*BZZTT*",
+	"Will's manliness",
+	"prohibited knowledge",
+	"scary magic",
+	"not as many things as now",
+	"thanks for playing dude really now", (maybe)
+	"dramatic music", (maybe)
+	"scary code", (maybe)
+	"amateur animation", (maybe)
+
+MISSION_START = "You feel a gentle breeze from all directions. You are placed inside a different point in time in somebody's mind. You try touching the nearest tree but your hand passes through, it seems that you can't interact with anything here. You can see a light in the distance at the north....",	--Probs not needed
+
+MISSION_END = "Maxwell is doing something to the machine! They're coming! Get ready to come back to the real world!",	--Probs not needed
+
+MISSION_FAIL = "The machine has overheated after your failure and it seems that it won't work again for some time, try again next day.",
+
+OK = "Ok...",
+
+NOTESFOUND = "Secrets found",
+
+WILSON_INTRO = "Amazing! The machine worked! \n I don't remember having shaved.",
+WILLOW_INTRO = "I think it worked, the place is still as boring! \n Hey, where's my lighter!?",
+WENDY_INTRO = "I am seeing the unsee-able! \n ...Where's Abigail's flower!?",
+WOLFGANG_INTRO = "Where is Wolfgang now?",
+WX78_INTRO = "THAT WAS EASY",
+WICKERBOTTOM_INTRO = "The machine has put me in some sort of alternate mind dimension? This is scientifically impossible!... \n ...Science has gone to hell in this place anyway.",
+WAVERLY_INTRO = "Now this is real magic, or not? \n Huh? Where's my wand!?",
+WOODIE_INTRO = "I'm surprised this worked. Will should be somewhere around here, eh? \n Hey! Where is Lucy!? I'll find you, don't worry!",
+WAXWELL_INTRO = "The machine has teleported me here. I remember this! \n Hm, the Codex Umbra seems to have been taken away from me.",
+WILL_INTRO = "So we're back here, i remember how this goes. \n I hope i don't cause some kind of paradox with this.",
+WILL_CORRUPT = "AH! TOO MUCH PARADOX! WHAT THE HELL IS THAT!? AAAAAAAAAAAAAAAAAHH!!",
+
+CORRUPT = "NULL",
+
+Will's convo:
+
+WILL_CONVO_1 = "...Huh?",
+WILL_CONVO_2 = "I hear something...",
+WILL_CONVO_3 = "Maxwell, is that you?",
+MAXWELL_CONVO_1 = "Say, pal, you look a little bored.",
+WILL_CONVO_4 = "Yes, \"pal\", i am. Don't you think it is enough? What happened to you?",
+MAXWELL_CONVO_2 = "...",
+MAXWELL_CONVO_3 = "Don't you think it is a dark night tonight? It's Them.",
+WILL_CONVO_5 = "...",
+MAXWELL_CONVO_4 = "Pal, just don't get involved. Last thing i want you is to \n wander around like a fool looking for answers.",
+MAXWELL_CONVO_5 = "It's not worth it. There's nothing worth it in here.",
+WILL_CONVO_6 = "I've seen a few shacks around though, what's in the-",
+MAXWELL_CONVO_6 = "Do not even try! You're going to regret it.",
+WILL_CONVO_7 = "...I want answers, Maxwell. I'm going to get them, no matter what.",
+WILL_CONVO_8 = "I swear i'm going to get to the source of this. We could fight whatever's doing this, togheter!",
+MAXWELL_CONVO_7 = "You can't fight Them.",
+WILL_CONVO_9 = "Of course i ca-",
+MAXWELL_CONVO_8 = "I've tried. Truth. Pal, we're dragging enough attention as it is.",
+MAXWELL_CONVO_9 = "Can you feel it? The atmosphere tonight?",
+WILL_CONVO_10 = "I don't feel anything.",
+MAXWELL_CONVO_10 = "It's going to be a long night, pal. Do not try anything stupid. Farewell.",
+WILL_CONVO_11 = "...",
+
+WILL_SOLO_1 = "I'm not giving up.",
+WILL_SOLO_2 = "Dark night? Pfft.",
+WILL_SOLO_3 = "It's always dark nights in here.",
+WILL_SOLO_4 = "I'm not going to rot away like some dead dog.",
+WILL_SOLO_5 = "I should just leave these notes around. If somebody ever has the same destiny as me.",
+WILL_SOLO_6 = "I'm just going to pick up these things...",
+
+WILSON_INTERFERENCE = "Something's happening to the machine!",
+WILLOW_INTERFERENCE = "Get away, you creepy things!",
+WENDY_INTERFERENCE = "The shadows come closer!",
+WOLFGANG_INTERFERENCE = "What is happening!? I am scared!",
+WX78_INTERFERENCE = "DANGER! INTERFERENCE QUANTITY IN MACHINE HAS REACHED A HIGH QUANTITY",
+WICKERBOTTOM_INTERFERENCE = "Something is intervening the machine!",
+WAVERLY_INTERFERENCE = "Must be that Charlie kid again! Nyeargh!",
+WOODIE_INTERFERENCE = "I'm sorry! I'm sorry! Don't kill me, eh!?",
+WAXWELL_INTERFERENCE = "Something's happening! Charlie!?",
+
+WILSON_WAKEUP = "Ugh. I'm alive! I'm in the dark though! \n Where's Will?",
+WILLOW_WAKEUP = "Pfft lame machine that guy made. \n Will is not here.",
+WENDY_WAKEUP = "I arise from the shadows once again! \n That man is not here anymore.",
+WOLFGANG_WAKEUP = "I am in the dark! But i am alive! Ha! \n Will, come here, puny man!",
+WX78_WAKEUP = "INTERFERENCE HAS ENDED. /n THE MERCHANT HAS LEFT HIS NEST",
+WICKERBOTTOM_WAKEUP = "Oh dear, my back. Interference to the machine has ended. \n That young gentleman isn't anywhere to be seen.",
+WAVERLY_WAKEUP = "Close call, i can't see a darn thing. \n That guy left his camp.",
+WOODIE_WAKEUP = "I'm not dead? I need to light this thing up again. \n where's that Will guy, eh?",
+WAXWELL_WAKEUP = "The machine must have had some overheating. \n Will went away to look for answers. Not surprising."
+

@@ -1,0 +1,47 @@
+-IN PROGRESS-
+
+One-time-use items:
+
+Anti-Grue 2000:
+
+This item is capable of detecting if the player has been in the dark long enough for a Grue attack to nearly be done, if it detects this, it inmediately makes the player shine for at least 15-30 seconds.
+
+Retribution Bomb:
+
+This item detects wether the player has reached a very low health level, if it detects this, it will explode with the force of x2 gunpowder, enough to kill most normal enemies, it will also rain thunder on enemies that may not be close enough to the blast, damaging them little but setting them on fire to make the player be able to escape. This will drain sanity on the player. The player is immune to the explosions.
+
+Suicide Bomb:
+
+This item detects wether the player has died, or has been hit with enough damage to be killed, when this happens, it will create explosions of gunpowder around the player enough to kill most normal-to-strong enemies, it will also rain thunder on enemies still far away enough with enough damage to kill them or leave them severely injured. It will also spawn a grave where the player used to stand. Best used with a meat effigy or touchstone.
+
+EDIT: When the bomb is activated, the use-spell animation will be done by the player, with the bomb on his hand. A sound effect will be played and just while the explosion is happening the player will dissapear.
+
+"My two cents to this: No! It would require to remove the event callback which calls everything on player death, such as dropping items, triggering resurrectors... So it can have extremely fatal consequences as far as I can see. So I would stick to the bomb going up after being dropped (after death) which doesn't interplay with such vulnerable parts of the game. I promise you though that I put this on my "low priority" list which basically means I will see if I can find a way around what I just said when everything else is done." -Hanno
+
+Escape Bomb:
+
+This item can be used by the player to form a cloud of smoke around them and to make enemies which target is the player to stop attacking for a while and panic in confusion, the player will temporarily gain some speed bonus and will be able to escape from the enemies.
+
+The player will lose 20 hunger and will have a increased hunger-drain-rate while the speed bonus is active.
+
+The use of this item is near-instant.
+
+Sleep Bomb:
+
+This item can be used by the player to make nearly enemies fall asleep for enough time for the player to escape.
+
+20% chance of making the player also fall asleep for a few day segments.
+
+Chester-be-safe:
+
+When placed inside Chester it will detect if Chester is being attacked, after being attacked long enough it will spawn aggresive killer bees that are friendly to the player and Chester. It will also distract enemies to set their target on something that isn't Chester.
+
+Insta-teleport:
+
+When used by the player it will teleport the player where he has clicked, along with a few meters more. Has a penalty of 10 sanity.
+
+Life Vacuum:
+
+When used by the player it will place itself on the ground and will suck health of nearby enemies, giving it to the player, if the quantity of health is bigger than the player's maxhealth, it will give it to the player either way as a temporary overheal, this means that the player could get a temporary health of 1000 for example, from a Deerclops.
+
+Big ammounts of health will be reduced in 40%, has a hunger penalty of 50. Deploy-then-work time of 5 seconds.

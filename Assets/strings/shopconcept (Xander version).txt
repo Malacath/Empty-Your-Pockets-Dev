@@ -1,0 +1,310 @@
+Strings and stuff
+
+The shopkeeper is a man that was turned into a plant-human hybrid by Maxwell way before Wilson arrived into the Don't Starve world, he, without anything better to do, built a shop around himself using his roots, he waits for people trapped by Maxwell to pass by his shop so he can help them, and get some silver by doing so, of course.
+
+I need lines for when you examine the things below [Shopkeeper, Upgrade area, item area, luckscrapyard, and mission area, Wilson's lines are already done but i do need more lines for other characters.
+
+
+NAMES
+
+SHOPKEEPER_FIRSTTIME1 = "Shady-looking Man"
+SHOPKEEPER = "The Shopkeeper"
+UPGRADEAREA = "Surgery Bed"
+ITEMAREA = "Item Shop"
+LUCKSCRAPYARDAREA = "Item Scrapyard"
+MISSIONAREA = "Work to be done"
+
+DESCRIBE_GENERIC_SHOPKEEPER = "He doesn't seem to happy to be there.",
+DESCRIBE_GENERIC_UPGRADEAREA = "...What is the bonesaw for?...",
+DESCRIBE_GENERIC_ITEMAREA = "There's some interesting...things...there.",
+DESCRIBE_GENERIC_LUCKSCRAPYARDAREA = "All i see is a bunch of random things piled togheter.",
+DESCRIBE_GENERIC_MISSIONAREA = "I don't think the shopkeeper can do all of that. Not without legs."
+
+
+Upgrade Shop
+
+Shopkeeper
+
+The Shopkeeper is friendly, but he is also greedy at times,he's really interested in the player's victory. And his silver, of course.
+
+I need lines for him introducing himself (INTRODUCTION_GENERIC) for various characters. 6 for each one. 
+
+I also need lines for when the character is replaced for another one (Adventure mode ending), and for when he is attacked by the player. You're free to write some more stuff for different situations, if you feel like.
+
+NEARBY_FIRSTTIME = "Hey, buddy!",
+NEARBY_FIRSTTIME2 = "You, with the face and the legs, c'mover here!",
+NEARBY_FIRSTTIME3 = "C'mon, there's some interesting stuff over here!",
+IGNORED = "Sigh.",
+
+INTRODUCTION_FIRSTTIME_1 = "Ah, wonderful! Welcome, welcome! Behold, my friend! The legendary, the Incredible...",
+INTRODUCTION_FIRSTTIME_2 = "The Great Body Modification Unit 5000, Patent Pending.",
+INTRODUCTION_FIRSTTIME_3 = "Eh? Not diggin' that? Alright, Alright, uhm... How about the Upgrade Shop? That's got a nice ring, doesn't it?",
+INTRODUCTION_FIRSTTIME_4 = "With just some easy payments, you'll be the new big shot around these parts! Muscles the size of my roots, hah!",
+INTRODUCTION_FIRSTTIME_5 = "How much? [thing]" Nothin' too difficult to obtain, just check the corpses of creepy cave crawlers.,
+INTRODUCTION_FIRSTTIME_6 = "...Or anything that's capable of turning your bones to jam, actually.",
+INTRODUCTION_FIRSTTIME_7 = "The Pig King's probably lookin' for some noble Gentleman to carry out a few tasks, y'know.",
+INTRODUCTION_FIRSTTIME_8= "Look around! See all I've got to offer, maybe we can strike up a deal.",
+
+
+NEARBY_GENERIC_1 = "Hey, buddy! Welcome back!"
+NEARBY_GENERIC_2 = "A familiar face! Welcome, once again!"
+NEARBY_GENERIC_3 = "Did you just fly in 'cause boy your arms look tired! Ha Ha!"
+NEARBY_GENERIC_4 = "I swear I put those pills somewhere..."
+
+INTRODUCTION_GENERIC_1 = "Wilson, my main squeeze! What's up, buddy?",
+INTRODUCTION_GENERIC_2 = "The Dude with the Do, hah! Lookin' to buy something?",
+INTRODUCTION_GENERIC_3 = "A Scientist like you must have a lot of silver, am i right?",
+INTRODUCTION_GENERIC_4 = "Pigsy's ought to have somethin' exciting for you today!",
+INTRODUCTION_GENERIC_5 = "Tell Pigsy I said hi!",
+INTRODUCTION_GENERIC_6 = "I never thought I'd get sick of bacon... Of all things, bacon! Just my luck...",
+INTRODUCTION_GENERIC_7 = "Bein' a plant kinda sucks. Photosynthesis this, photosynthesis that! Boooring!",
+INTRODUCTION_GENERIC_8 = "I used to have a big ol' head of hair, like yourself! Two firm, well-groomed legs...",
+INTRODUCTION_GENERIC_9 = "Let me tell you... One eye, sucks! No depth perception, whatsoever! Gotta assume stuff.",
+
+The shopkeeper has a thing for willow. 
+
+INTRODUCTION_WILLOW_1 = "Hey, miss, i have some good things for a pyromaniac like you!"
+INTRODUCTION_WILLOW_2 = "Don't even think about getting that lighter near my shop!"
+INTRODUCTION_WILLOW_3 =
+INTRODUCTION_WILLOW_4 =
+INTRODUCTION_WILLOW_5 =
+INTRODUCTION_WILLOW_6 =
+INTRODUCTION_WILLOW_7 =
+
+The shopkeeper dislikes people like Wendy.
+
+INTRODUCTION_WENDY_1 = "I already feel bad vibes from just looking at your face."
+INTRODUCTION_WENDY_2 =
+INTRODUCTION_WENDY_3 =
+INTRODUCTION_WENDY_4 =
+INTRODUCTION_WENDY_5 =
+INTRODUCTION_WENDY_6 =
+INTRODUCTION_WENDY_7 =
+
+The shopkeeper just LOVES wolfgang as a friend, since he is so simple minded and can probably get a lot of silver from him by tricking him. He hopes Wolfgang is able to get out of the Don't Starve world.
+
+INTRODUCTION_WOLFGANG_1 = "There he is, my comrade!"
+INTRODUCTION_WOLFGANG_2 = 
+INTRODUCTION_WOLFGANG_3 =
+INTRODUCTION_WOLFGANG_4 =
+INTRODUCTION_WOLFGANG_5 =
+INTRODUCTION_WOLFGANG_6 =
+INTRODUCTION_WOLFGANG_7 =
+INTRODUCTION_WOLFGANG_8 =
+
+The shopkeeper is afraid of WX-78, and doubtful of fancy technology in general.
+
+INTRODUCTION_WX78_1 = "Just one question pal...WHAT ARE YOU!?",
+INTRODUCTION_WX78_2 =
+INTRODUCTION_WX78_3 =
+INTRODUCTION_WX78_4 =
+INTRODUCTION_WX78_5 =
+INTRODUCTION_WX78_6 =
+INTRODUCTION_WX78_7 =
+
+The shopkeeper has respect for Wickerbottom, but sort of dislikes her fancy talk.
+
+INTRODUCTION_WICKERBOTTOM_1 = "Since you are so smart and stuff...Do you think you could turn me back into a human?",
+INTRODUCTION_WICKERBOTTOM_2 =
+INTRODUCTION_WICKERBOTTOM_3 =
+INTRODUCTION_WICKERBOTTOM_4 =
+INTRODUCTION_WICKERBOTTOM_5 =
+INTRODUCTION_WICKERBOTTOM_6 =
+INTRODUCTION_WICKERBOTTOM_7 =
+
+The shopkeeper thinks of Wes as a wimp but he respects and is impressed by Wes's will to live, even though he's a wimp and doesn't talk, and he hopes that he is able to get out of the Don't Starve world. He's also amused by Wes's attempts of communication.
+
+INTRODUCTION_WES_1 = "Could you do one of your little mime acts for me?",
+INTRODUCTION_WES_2 =
+INTRODUCTION_WES_3 =
+INTRODUCTION_WES_4 =
+INTRODUCTION_WES_5 =
+INTRODUCTION_WES_6 =
+INTRODUCTION_WES_7 =
+
+The shopkeeper likes Woodie's relaxed attitude but he's afraid of him chopping down his shop. He wonders what's the deal with him talking to his axe.
+
+INTRODUCTION_WOODIE_1 = "Woodie! How's your axe...I mean, Lucy doing?",
+INTRODUCTION_WOODIE_2 =
+INTRODUCTION_WOODIE_3 =
+INTRODUCTION_WOODIE_4 =
+INTRODUCTION_WOODIE_5 =
+INTRODUCTION_WOODIE_6 =
+INTRODUCTION_WOODIE_7 =
+
+The Shopkeeper just HATES Maxwell for what he has done. He hopes he can get his legs back someday.
+
+INTRODUCTION_WAXWELL_1 = "You... No, no go away!"
+INTRODUCTION_WAXWELL_2 = "What now? Are you gonna take my hands, my eye, my stem?!"
+INTRODUCTION_WAXWELL_3 = "You can forget about gettin' any discounts here, pal. Get lost!"
+INTRODUCTION_WAXWELL_4 = "If you insist on hangin' around... How about givin' me my legs back? ...Please?"
+INTRODUCTION_WAXWELL_5 = "What? Got no more juice, left to wander? Heh, the irony..."
+INTRODUCTION_WAXWELL_6 = "What happened to [CHARACTERINTHRONE]? [GENDER] didn't... No..."
+INTRODUCTION_WAXWELL_7 = "[SOMETHING ABOUT HIM LOOKING OLDER]",
+INTRODUCTION_WAXWELL_8 = "[SOMETHING ABOUT THEM BOTH MAYBE GETTING ALONG]",
+
+The Shopkeeper can't be killed, but he still dislikes being attacked by a customer.
+
+ATTACKEDBY_WILSON_1 =
+ATTACKEDBY_WILSON_2 =
+
+ATTACKEDBY_WILLOW_1 =
+ATTACKEDBY_WILLOW_2 =
+SETONFIRE_WILLOW =
+
+ATTACKEDBY_WENDY_1 =
+ATTACKEDBY_WENDY_2 =
+
+ATTACKEDBY_WOLFGANG_1 =
+ATTACKEDBY_WOLFGANG_2 =
+
+ATTACKEDBY_WX78_1 =
+ATTACKEDBY_WX78_2 =
+
+ATTACKEDBY_WICKERBOTTOM_1 =
+ATTACKEDBY_WICKERBOTTOM_2 =
+
+ATTACKEDBY_WOODIE_1 =
+ATTACKEDBY_WOODIE_2 =
+
+ATTACKEDBY_WAXWELL_1 =
+ATTACKEDBY_WAXWELL_2 =
+
+The Shopkeeper will be surprised and thankful if he is freed, he will die shortly after and be unlocked as a character (Unlocked characters usually die and dissapear in a puff of smoke.)
+
+The lines are sequential, meaning they will come one after the other.
+
+FREEDBY_WILSON_1 = "I can't believe you...you freed me!",
+FREEDBY_WILSON_2 = "I can feel my legs again!",
+FREEDBY_WILSON_3 = "Will i finally return home?",
+THANKSANDGOODBYE_WILSON = "I can't express my gratitude enough. Meet you in the real world.",
+WISHYOULUCK_WILSON = "Give a good beating to Maxwell for me!",
+
+FREEDBY_WILLOW_1 =
+FREEDBY_WILLOW_2 =
+FREEDBY_WILLOW 3 =
+THANKSANDGOODBYE_WILLOW =
+WISHYOULUCK_WILLOW =
+
+FREEDBY_WENDY_1 =
+FREEDBY_WENDY_2 =
+FREEDBY_WENDY_3 =
+THANKSANDGOODBYE_WENDY =
+WISHYOULUCK_WENDY =
+
+FREEDBY_WOLFGANG_1 =
+FREEDBY_WOLFGANG_2 =
+FREEDBY_WOLFGANG_3 =
+THANKSANDGOODBYE_WOLFGANG =
+WISHYOULUCK_WOLFGANG =
+
+FREEDBY_WX78_1 =
+FREEDBY_WX78_2 =
+FREEDBY_WX78_3 =
+THANKSANDGOODBYE_WX78 =
+WISHYOULUCK_WX78 =
+
+FREEDBY_WICKERBOTTOM_1 =
+FREEDBY_WICKERBOTTOM_2 =
+FREEDBY_WICKERBOTTOM_3 =
+THANKSANDGOODBYE_WICKERBOTTOM =
+WISHYOULUCK_WICKERBOTTOM =
+
+FREEDBY_WOODIE_1 =
+FREEDBY_WOODIE_2 =
+FREEDBY_WOODIE_3 =
+THANKSANDGOODBYE_WOODIE =
+WISHYOULUCK_WOODIE =
+
+FREEDBY_WAXWELL_1 =
+FREEDBY_WAXWELL_2 =
+FREEDBY_WAXWELL_3 =
+FREEDBY_WAXWELL_4 =
+FREEDBY_WAXWELL_5 = "I'm sorry about Charlie.",
+THANKSANDGOODBYE_WAXWELL = "By my opinion, you already have earned your pardon!",
+WISHYOULUCK_WAXWELL = "You can beat Them! It's worth trying."
+WISHYOULUCK_WAXWELL_2 = "Meet you at San Francisco."
+
+
+The Shopkeeper will be replaced by someone else if he is freed, he sort of misses his shop but at the same time he's glad to be able to walk again.
+
+DESCRIBE_SHOPKEEPER_REPLACEMENTSHOPKEEPER = " ",
+DESCRIBE_SHOPKEEPER_SHOPAREA = " ",
+DESCRIBE_SHOPKEEPER_UPGRADEAREA = " ",
+DESCRIBE_SHOPKEEPER_LUCKSCRAPYARDAREA = " ",
+DESCRIBE_SHOPKEEPER_MISSIONAREA = " ",
+DESCRIBE_SHOPKEEPER_OWNDEADROOTS = " ",
+
+PURCHASE_CANCEL = "Not nice!"
+PURCHASE_COMPLETE_1 =
+PURCHASE_COMPLETE_2 =
+PURCHASE_BIG_COMPLETE_1 =
+PURCHASE_BIG_COMPLETE_2 =
+
+EVERYTHING_BOUGHT_1 =
+EVERYTHING_BOUGHT_2 =
+EVERYTHING_BOUGHT_3 =
+
+NOTENOUGHMONEY_1 =
+NOTENOUGHMONEY_2 =
+NOTENOUGHMONEY_3 =
+
+Tasks
+
+These are sequential and need to be said one after the other.
+EXAMPLE_MISSIONNAME = "[Something smart and funny]"
+EXAMPLE_MISSIONDESC = "Something smart and funny"
+EXAMPLE_1 = Something bad has happened!
+EXAMPLE_2 = I lost my pants and i need you to find them.
+EXAMPLE_3 = I will pay you money.
+EXAMPLE_4 = Go find them!
+
+Gobblers will spawn around the shop and the shopkeeper will give blowdarts to the player.
+
+CATCHGOBBLERS_MISSIONNAME =
+CATCHGOBBLERS_MISSIONDESC =
+CATCHGOBBLERS_1 =
+CATCHGOBBLERS_2 =
+CATCHGOBBLERS_3 =
+CATCHGOBBLERS_4 =
+CATCHGOBBLERS_REWARD =
+
+Spiders will invade the shop.
+
+SPIDERINVASION_MISSIONNAME =
+SPIDERINVASION_MISSIONDESC =
+SPIDERINVASION_1 =
+SPIDERINVASION_2 =
+SPIDERINVASION_3 =
+SPIDERINVASION_4 =
+SPIDERINVASION_REWARD =
+
+The deerclops will invade the shopkeeper's shop. This is a big event.
+
+THEDEERCLOPSCOMES_MISSIONNAME ="The King of Winter"
+THEDEERCLOPSCOMES_MISSIONDESC =
+THEDEERCLOPSCOMES_1 =
+THEDEERCLOPSCOMES_2 =
+THEDEERCLOPSCOMES_3 =
+THEDEERCLOPSCOMES_4 =
+THEDEERCLOPSCOMES_5 =
+THEDEERCLOPSCOMES_HEREHECOMES =
+YOUCANDOIT_1 = "You can do it, go for the legs!"
+YOUCANDOIT_2 =
+YOUCANDOIT_3 =
+AFRAID_1 =
+AFRAID_2 =
+AFRAID_3 =
+PLAYERDEATH =
+THEDEERCLOPSCOMES_REWARD =
+
+
+START_SURGERY_1 = "When you wake up you'll be better than before!"
+START_SURGERY_2 = "Where did i leave the bonesaw..."
+START_SURGERY_3 =
+START_SURGERy_4 =
+
+CURRENCY = ""
+ACCEPT = "Finish Purchase"
+CANCEL = "Cancel Purchase"
+

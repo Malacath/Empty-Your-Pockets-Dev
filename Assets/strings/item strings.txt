@@ -1,0 +1,108 @@
+MONEYBAG
+
+WILSON = "Free money! I mean, oh no!",
+WILLOW = "Don't even think about getting your filthy little feet near my money!",
+WENDY = "A possessed sack of money!",
+WOLFGANG = "Bag with legs!",
+WX78 = "SPECIMEN NOT FOUND IN DATABASE",
+WICKERBOTTOM = "Valuablus Animatus. Quite young.",
+WOODIE = "Go away, eh!",
+WAXWELL = "These things have been around ever since Will has been screwing about with magic.",
+WILL = "These were an accident. An accident that took all of my money.",
+
+TONY
+
+WILSON = "That's a lot of money! And it's going to kill me!",
+WILLOW = "Imagine what i could buy with THAT many coins! oh boy!",
+WENDY = "A greedy bag possesed by evil spirits. And it's huge.",
+WOLFGANG = "Bad bag throw coins!",
+WX78 = "IT SEEMS TO BE THE BOSS OF THIS ORGANIZATION",
+WICKERBOTTOM = "It seems to eject coins at bullet velocity to hunt prey.",
+WOODIE = "Why do you want my money if you already got enough, eh!?",
+WAXWELL = "This one is a lot bigger.",
+WILL = "Anyone who manages to put that thing down will have great fortune.",
+
+ORBOFCONFUSION
+
+WILSON = "Don't use it! It's too confusing!",
+WILLOW = "Ooooh, it's like a huge pearl!",
+WOLFGANG = "Orb hurt brain!",
+WX78 = "THE RADIO WAVES IT EMITS INTERFERE WITH MY PROCESSING UNIT",
+WICKERBOTTOM = "A mysterious orb which seems to interfere with the brain waves of the user.",
+WOODIE = "I wonder what's inside.",
+WAXWELL = "This orb just makes ANYBODY an idiot. Even affects me.",
+WILL = "I got this orb from a sea expedition, it's not too useful.",
+
+ORBOFCONFUSION_CONFUSE
+
+RANDOM_1 = "Duuuuuuuuh.",
+RANDOM_2 = "Aaaaaaaah.",
+RANDOM_3 = "Bleeeeugh...",
+RANDOM_4 = "Oh noooooo....",
+
+WILSON_1 = "Uuuuuuugh...",
+WILSON_2 = "...What...was i doing again?...",
+WILSON_3 = "Science...is magnificent...uuuuuh....",
+WILSON_4 = "I have been...confused...withthepowerofSCIENCE!",
+
+WILLOW_1 = "Deeuuuugh...",
+WILLOW_2 = "What...is a fire?...",
+WILLOW_3 = "So...confused...",
+WILLOW_4 = "More...fires...",
+
+WENDY_1 = "...Must...create...poetry...",
+WENDY_2 = "...Death...is...uuuuuh...",
+WENDY_3 = "...My brain...is reaching the inevitable...",
+WENDY_4 = "...",
+
+WOLFGANG_1 = "I do not feel anything.",
+WOLFGANG_2 = "Orb does nothing!",
+WOLFGANG_3 = "It seems the power of the orb has gotten me significantly smarter.",
+WOLFGANG_4 = "Wolfgang is okay!",
+
+WX78_1 = "'TABLE' IS NOT A VALID VALUE",
+WX78_2 = "ATTEMPT TO CALL NIL VALUE",
+WX78_3 = "ERROR AT 0x000000087",
+WX78_4 = "DOWNLOADING PARADOXES",
+
+WICKERBOTTOM_1 = "...Must...resist...idiocy...",
+WICKERBOTTOM_2 = "...You can do it, brain...",
+WICKERBOTTOM_3 = "...Resist stupidity...come on...",
+WICKERBOTTOM_4 = "...Too...smart...hnnngh...",
+
+WOODIE_1 = "Eeeeeeh....",
+WOODIE_2 = "...Lucy...lead the way...",
+WOODIE_3 = "...Need...trees...",
+WOODIE_4 = "...This...sucks...gaaah.",
+
+WAXWELL_1 = "Hhrngmphf",
+WAXWELL_2 = "...Don't...drool...over the suit...",
+WAXWELL_3 = "...I...hate...orbs...",
+WAXWELL_4 = "...Ohhhh...my head...",
+
+WILL_1 = "...This...was a terrible idea...",
+WILL_2 = "...Not...worth the money...",
+WILL_3 = "...Don't be stupid...will...",
+WILL_4 = "......Photosynthesis.......Photosynthesis......",
+
+
+CHESTER_BE_SAFE
+
+WILSON = "Chester should be a little safer with this.",
+WILLOW = "I wonder what's in there.",
+WENDY = "I might as well hold the inevitable away from this doomed soul.",
+WOLFGANG = "Protect hairball!",
+WX78 = "SECONDARY DEFENSE SYSTEM",
+WICKERBOTTOM = "The jar breaks when Chester receives a great force impact.",
+WOODIE = "I should have one for Lucy too!",
+WAXWELL = "Is it even worth protecting this pest?",
+WILL = "This spawns so many bees out from nowhere inside the jar it breaks! /n Then it's just a matter of time.",
+
+
+MINDSHAKER
+
+WILSON = "This is a terrible thing to do.",
+WILLOW = "I couldn't care less about what this does to stuff.",
+WENDY = "This is one of the least ways i'd like to die.",
+WOLFGANG = "Glowy orb!",
+WX78 = "ITS SEIZURE TIME",

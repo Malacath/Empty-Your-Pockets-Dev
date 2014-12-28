@@ -1,0 +1,185 @@
+EMPTY YOUR POCKETS MOD TO DO LIST
+
+Irontaco:
+
+	-Sprites and Animations for...
+
+	- Shopkeeper, aka. William:
+		-Atlas
+		-Animations for:
+			*idle -DONE
+			*idle_bored
+			*surprised_firsttime
+			*talk -SORT OF DONE
+			*talk_quick
+			*throwconfetti
+			*happy
+			*announce
+			*hit
+			*burn
+			*random_lookatmirror
+			*random_pulloutsign
+			*random_bagofconfetti
+			*random_bagofmoney
+			*random_fakebeard
+			*night_idle
+			*event_gobblers
+			*scared
+			*playerdeath
+			*shop_startpurchase
+			*shop_majorsurgery
+			*shop_lucky
+			*freed_turnintohuman
+			*freed_surprised
+			*freed_humantalk
+			*freed_humantalk_sad
+			*freed_die
+	- Steampunk music machine
+		-Atlas
+		-Animations for:
+			*idle_off
+			*turn_on
+			*idle_on
+			*malfunction
+
+	- Upgrade Shop (Surgery table) -DONE
+		-Atlas -DONE
+		-Animations for:
+			*idle -DONE
+	
+	- Item Shop (Simple hut) -DONE
+		-Atlas -DONE
+		-Animations for:
+			*idle -DONE
+	- Lucky Scrapyard
+		-Atlas
+		-Animations for
+			*digitems
+			*cheapitem
+			*fancyitem
+	- Items
+		*Anti-Grue 2000 -DONE
+		*Chester-be-Safe -DONE
+		*Life Vacuum -DONE
+		*Orb of Confusion -DONE
+		*Bombs -DONE
+		*Retribution Bomb -TO BE REDONE
+		*Mindshaker -DONE
+		*Poison
+		*Mordecai
+		*Pocket Jumper
+		*Obed
+		*Bunch of Lawrence's suggestions
+	- Prefab images for
+		*Tunnel to the Underworld 
+		*Tunnel to Hell -DONE
+		*Underworld Ground -DONE
+		*Stone walls
+		*Underworld Spawners
+		*The Announcer
+		*A lot of stuff in general :/
+	- HUD art for:
+		*Money signs and window -DONE
+		*Upgrade shop window
+		*Upgrade shop upgrade hud stuff -HALF DONE
+		*Upgrade shop symbols
+
+- FireFox:
+	Sound effects for...
+	
+	Shop:
+		- Shopkeeper voice lines:
+			-Normal -DONE
+			-Happy
+		- Sound effect for silver get -DONE
+		- Shop Presentation music -DONE
+		- Shop idle music
+		- Music for Steampunk machine
+
+	Underworld Arena:
+
+		- Danger beats -DONE
+		- Final 6 and 7 beat
+		- Boss beat
+		- Announcer voice lines
+			*This guy of course is still just an idea.
+		-Underworld ambience
+		- Spectraldoor_open
+		- Spectraldoor_close
+		- Bossdoor_open
+		- Bossdoor_victoryclose
+		- Underworld_activate
+		- Underworld_peaceful
+
+
+- Xander:
+	Lines for...
+	
+	Shop:
+		- Clever names for upgrades
+		- Clever descriptions for upgrades
+		- Shopkeeper (William) lines
+		- William lines
+		- Underworld Arena Announcer lines
+		- The concept of the announcer, which is the character you mentioned to me some time ago.
+
+- Malacath:
+	Coding for...
+	
+	Shop:
+		-Shop GUI			
+		-Figure out whats up with the HUD size thing											-missing artwork
+		-Shop Upgrades System -DONE
+			-add proper costs						-needs proper testing
+		-tune effects								-needs proper testing
+			-probably add a lot more upgrades for the other two shopparts
+		-Shop pricing system -DONE
+		-Shopkeeper component
+			-handles speech	-WIP
+			-handles sound 	-WIP
+			-handles trading -WIP
+			-handles outsourced parts of the 			 shop -DONE
+		-Merchant
+			-stategraph													-WIP
+			-wiring all needed components								-WIP
+		-Coding for most shop prefabs and stuff 						-WIP
+		-William character 							-missing artwork
+			-discount in shops	-DONE
+			-"persuation" skills	-DONE
+			-gains sanity the more money he 			 carries around	-DONE
+		-Find-the-signs-to-shop
+		-Money-found-everywhere-system 	-DONE
+		
+		-Mobs one money per 50 maxhealth -DONE
+		-Workables drop two money 	-DONE
+		-Everything else drops one money -DONE
+		-Chests not built by the player contain some                  money 	-DONE
+			-Examples
+				Chests 		1-100
+				Bird		~3
+				Spider		~9
+				Pigman		~15
+				Deerclops	~110
+		-Money 		 							-missing artwork
+		-One money drop has an equal chance for 1, 2                  or 3 in value	-DONE
+		-Widget showing current amount of money-DONE
+			-Money autopickup when close enough							-DONE
+		-Setpiece 														-I cannot do this before having a list of what prefabs
+		-setup a freed-will npc
+																should be there, if someone tells me I can proto it
+		-More stuff
+		-Wiring up the animations for everything
+		-Wiring up the sounds for everything
+	
+	Underworld Arena:
+		
+		-Finding a way to make the danger beats start up at the right times
+		-Overriding the combat music
+		-Prefabs for monster spawners
+		-Wave system
+		-Money-for-waves system 										-You would get money for each mob, isn't that enough?
+			-We're still thinking of the waves system, there's some extra danger 			involved in how mobs behave there, and how they spawn.
+		-World Generation for the Underworld Arena
+		-Complex things
+
+	

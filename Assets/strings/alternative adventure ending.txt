@@ -1,0 +1,200 @@
+PREENDING
+
+MAXWELL_ENDGAMEB_00 = "Is that you, Will?"
+MAXWELL_ENDGAMEB_01 = "You've done it!"
+MAXWELL_ENDGAMEB_02 = "Unfortunately, there's no answers here."
+MAXWELL_ENDGAMEB_03 = "That's odd, They really seem to be staring now that you are here."
+MAXWELL_ENDGAMEB_04 = "They are waiting for your final move."
+MAXWELL_ENDGAMEB_05 = "While you figure this out, i left some food in my personal kitchen."
+MAXWELL_ENDGAMEB_06 = "Be careful, though, some of that is poison."
+WILL_ENDGAME = "I thought of something."
+
+DECISION = "This is it."
+
+DECISION_BODY = "What will you do?"
+
+YOU = "Save myself"
+MAXWELL = "Save Maxwell"
+SUICIDE = "Suicide and seal DS"
+
+YOU_DECISION = "I'm sorry, Maxwell."
+MAXWELL_DECISION = "Sigh, i know i'm going to regret this somehow. Go before i change my mind."
+SUICIDE_DECISION = "Got a plan, i have something for us both.
+
+
+
+GOOD ENDING
+
+you both suicide and the world of don't starve is left behind.
+
+MAXWELL_CHECKDEADLYSTEW = "What's that?"
+
+STORY_GEND01 = "It's a deadly stew, think what i'm thinking?" -will
+
+STORY_GEND02 = "Oh no. You really want to?...After all this time?" -max
+
+STORY_GEND03 = "We're better off not letting Them win, don't you think?" -will
+
+STORY_GEND04 = "It's been so long already. I can't take it anymore. Give me that thing." -max
+
+*maxwell does eating animation*
+
+*will does eating animation*
+
+STORY_GEND05 = "We're leaving, after all this time. To hell with this despicable world." -max
+
+STORY_GEND05 = "Nobody else will suffer such a fate as ours." -max
+
+STORY_GEND06 = "It's been an honor, pal." -max
+
+*maxwell collapses and dies*
+
+STORY_GEND07 = "Likewise."
+
+*will looks to the screen*
+
+STORY_GEND08 = "It would have been nice to be able to go back to San Francisco."
+
+STORY_GEND09 = "My shop...I wish i could have left something behind."
+
+STORY_GEND10 = "Something that could have marked my prescence in real life."
+
+STORY_GEND11 = "But this is the best way."
+
+STORY_GEND12 = "I will not-...Let anybody else suffer..-The same...Fate."
+
+*will collapses and dies*
+
+*small don't starve-y theme plays*
+
+*screen fades out*
+
+GOODENDING_TITLE= "It's Over"
+
+GOODENDING_BODY = "The Don't Starve world you have been trapped in for so many years is now sealed. All the effort you've gone through and the time you've waited have lead up to the prevention of anybody else suffering the same fate as you have, or as Maxwell had.
+
+You've finally escaped the Don't Starve world, at least, in non-physical form. 
+
+The cycle of life continues, but Will Gagliardi and William Carter are not part of it anymore.
+
+What new challenges and secrets you may have now uncovered in the Don't Starve world? There's only one way to find out!
+
+ Thanks for playing.
+
+-The EYP Mod Team."
+
+
+
+NORMAL ENDING
+
+you leave maxwell behind, but you leave the don't starve world
+
+THEM_FREEWILL = "...Pact..."
+
+*shadow teleporter appears*
+
+MAXWELL_END01 = "...I don't blame you if you look for yourself first."
+MAXWELL_END02 = "I have been here long enough. I might have EVEN gotten used to it."
+MAXWELL_END03 = "But what i have done to you...You will never forget it."
+MAXWELL_END04 = "I won't forget it either."
+MAXWELL_END05 = "You have a choice. Your freedom is just one step ahead."
+MAXWELL_END06 = "But i want you to do me one favour...Please, pal."
+MAXWELL_END07 = "I just NEED that you think this decision well. I beg you."
+MAXWELL_END08 = "What am i saying...I was doomed from the very beggining either way..."
+
+MAXWELL_NOTFREED = "...Sigh..."
+MAXWELL_NOTFREED01 = "The chance to leave this world has never appeared."
+MAXWELL_NOTFREED02 = "Well played, Will."
+MAXWELL_NOTFREED03 = "But do not worry, pal."
+MAXWELL_NOTFREED04 = "This world needs me."
+
+*teleporter starts fading along with will*
+
+MAXWELL_NOTFREED05 = "THIS WORLD NEEDS ME!" - uses maxwell scream
+
+*screen fades out*
+
+*player is teleported into old-store looking area*
+
+WILLIRL_01 = "I...Can't believe it."
+WILLIRL_02 = "I'm finally home!"
+WILLIRL_03 = "I can't believe this is all over..."
+
+*will grabs near broom as a item*
+
+WILLIRL_04 = "I'm just gonna tidy up this place...I-i'm gonna open up the shop again."
+
+*don't starve-y theme plays*
+
+NORMALENDING_TITLE = "It's Over"
+
+NORMALENDING_BODY = "You have finally left the Don't Starve world. At last. By your continued efforts and strong mind you have managed to survive all of this tremendous odyssey.
+
+As you clean your shop you constantly look at your back, you feel guilty of not having freed Maxwell, even after all the horrendous things he had done for you.
+
+Will William Carter ever be freed? This is not your business anymore. You prefer to forget this has ever happened.
+
+The cycle of life continues. And Will Gagliardi is not part of it anymore.
+
+What new challenges and secrets you may have now uncovered in the Don't Starve world? There's only one way to find out!
+
+ Thanks for playing.
+
+-The EYP Mod Team.
+
+ps you are a terrible person"
+
+
+
+BAD ENDING
+
+take pity upon maxwell, but you are trapped in the void for the rest of eternity
+
+MAXWELL_FREED01 = "...I can't believe it."
+MAXWELL_FREED02 = "Did you really spare your freedom for just me? I'm just a sack of bones and skin!"
+MAXWELL_FREED03 = "I can't...I can't thank you enough."
+MAXWELL_FREED04 = "You won't be forgotten, Will."
+MAXWELL_FREED05 = "I will be a better man from now on. I will use my life for the very best, for it's full potential."
+MAXWELL_FREED06 = "Or i will at least try. Your sacrifice won't be in vain."
+MAXWELL_FREED07 = "I'm sorry of what will happen next. I'm so sorry."
+MAXWELL_FREED08 = "I'm not going to die being a monster."
+MAXWELL_FREED09 = "I promise."
+
+*maxwell is dragged to the ground by shadow hands*
+
+*will is dragged to the ground by shadow hands a few seconds later*
+
+*will appears in a single stone tile, in the void, his desperate insanity animation constantly plays"
+
+WILLBADEND00 = "No! NO!"
+WILLBADEND01 = "It can't be!"
+WILLBADEND02 = "UNFAIR! ILOGICAL! NO!"
+WILLBADEND03 = "It's the end..."
+WILLBADEND04 = "There's nothing i can do...Not anymore..."
+WILLBADEND05 = "At least i did something that will mark my prescence. One thing..."
+WILLBADEND06 = "...Sigh..."
+
+*screen fades out*
+
+*don't starve-y theme plays*
+
+BADENDING_TITLE = "It's Over"
+BADENDING_BODY = "As you look to the void you can feel Their prescence staring down at you, almost like if they were having laughs from your now never ending suffering.
+
+You desperately try to find a light in this vast void, but there's nothing.
+
+It's empty.
+
+Before you sit down and accept that the curtains have closed, you look at the dark sky.
+
+You've saved someone, at least, Maxwell can possibly do something, right? He's a magician, after all.
+
+You think it better, Maxwell will probably do his promise. But what does it matter. You will die in here.
+
+The cycle of life continues and William Carter is not part of it anymore.
+
+What new challenges and secrets you may have now uncovered in the Don't Starve world? There's only one way to find out!
+
+ Thanks for playing.
+
+-The EYP Mod Team.

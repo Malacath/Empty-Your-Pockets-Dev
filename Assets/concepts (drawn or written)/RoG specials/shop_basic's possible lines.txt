@@ -1,0 +1,29 @@
+JOEQUEST_INTRO_1 = "You !",
+JOEQUEST_INTRO_2 = "Scammer!",
+JOEQUEST_INTRO_3 = "Hey you, midget! Don't buy from that guy, he's gonna scam you!",
+
+JOEQUEST_WILLINTRO_1 = "I-I can explain!",
+
+JOEQUEST_INTRO_4 = "Nothing to explain here! Where are those umbrellas you stole!?",
+JOEQUEST_INTRO_5 = "Ooh! And remember, your artifacts that barely work!",
+JOEQUEST_INTRO_6 = "How long have you been scamming this guy!?",
+
+JOEQUEST_CHOICE_WILL_1 = "Wilson, don't trust his guy. You know i'm trustworthy, no?",
+JOEQUEST_CHOICE_WILL_2 = "Please, help me prove him that i haven't scammed anybody.",
+JOEQUEST_CHOICE_WILL_3 = "I mean, look at him! He's really a shady looking guy if you ask me.",
+JOEQUEST_CHOICE_WILL_YES = "Thanks so much! I appreciate it. Now, what i need you to do is...",
+
+JOEQUEST_CHOICE_JOE_1 = "Hey you, midget, what's your name?...",
+JOEQUEST_CHOICE_JOE_2 = "Wilson, alright, hey, name's Joe. Nice to meet you.",
+JOEQUEST_CHOICE_JOE_3 = "Another one caught by Maxwell, yes, i was, too, we all were.",
+JOEQUEST_CHOICE_JOE_4 = "Now, you're gonna help me get back on business, ok? Start purchasing from me.",
+JOEQUEST_CHOICE_JOE_YES = "Alright, thanks. Now, what i need you to do is...",
+
+
+JOEQUEST_WILLPATH_1 = "I'm gonna need you to find these things...
+
+[some kind of list should appear on the hud? maybe he could give a screecher-style note to the player that can be opened multiple times]
+
+JOEQUEST_WILLPATH_2 = "We're gonna make him the best thing ever so i can prove him i'm legit.",
+JOEQUEST_WILLPATH_3 = "Now go! He's waiting.",
+

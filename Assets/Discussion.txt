@@ -1,0 +1,19 @@
+﻿Irontaco mentions different sections of the shop. How do you imagine these in terms of accessibility? I have two options to give you
+1) The shopkeeper talks to you and you switch through the different sections in the UI coming from this single conversation
+2) The shopkeeper tells you about all these things but does not himself sell you the stuff directly. Instead you would go to the appropriate part (i.e. the surgery bed) and activate this initiating a special dialogue with the shopkeeper and opening a UI unique to this section of the shop
+
+My own opinion would be to go with option 2. On one hand I have to admitt that it's a lot easier to code since the basic UI is done, advancing that to a more flexible UI needed for option 1 is a big heap of additional work. Apart from that I also prefer it because the player has the option to go right where he wants so if he regularly visits the shop and is basically not interested in the scrapyard he can simply ignore it.
+
+What's your opinion? -Hanno (that whole lot up there)
+
+Remember to sign your name to know what person has talked -Irontaco
+
+Yeah, i was thinking of option 2, too, since it's way easier to code and that way things can be spread around the shop, acting as some kind of mall for stuff. -Irontaco
+
+K, lucky to hear that ^^ -Hanno
+
+Can someone also give me a description of the items that you intend to be available in the shop? This is stuff I can already proto to finish our surface additions before getting underground. -Hanno
+
+Another thing is that I just thought we might not want to create a WIP thread on the forums. When we're done we can try to make a short trailer á la Don't Starve update trailer with that sweet music we got  :3  And then we'll knock everyone's socks off with a completely finished mod we pulled out of thin air  xD  Or maybe come out with a beta that is finished but we call it beta because we're not sure if it's bug free (which it will probably not be) What do ya'll think? -Hanno
+
+I had the same idea man, it's perfect. -Irontaco

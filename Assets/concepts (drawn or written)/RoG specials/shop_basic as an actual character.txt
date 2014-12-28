@@ -1,0 +1,33 @@
+Remember the guy from the earlier versions of Don't Starve? You could spawn him by putting in DebugSpawn("shop_basic") and he did nothing but tap his foot and wait. He was even called "MISSING_NAME". For now, lets call MISSING_NAME "Joe"
+
+I was thinking that Joe could show up (with an updated atlas and probably custom animations (this means making Joe from scratch again) at the merchant's (Will) place on some random day while the player was purchasing from him.
+
+Joe will walk to the store and proceed to call Will a scammer, because of his habit of selling defective artefacts that barely manage to turn on. (And also because he stole the other 2 shopkeeper's umbrellas (those dudes wont be seen ingame))
+
+Then the player will have a choice, to complete a task for Joe, or for Will.
+
+IF WILL PATH IS TAKEN:
+
+Will asks the player if he'd like to help him prove Joe wrong, if the player says yes, then Will asks the player for really expensive components he must find to create the ultimate machine. (this could probably be the suicide bomb unlock!).
+
+After bringing the components to Will, he will tell the player to go take a nap while he does his work, Joe will be waiting near Will this whole time, after the player takes his nap Joe is seen holding the recently built Suicide Bomb, which is actually a disguised remote detonation bomb, Joe, eager to see what it is made of, leaves the shop to dissasemble the bomb.
+
+Will says something to the player, then he tells the player to activate the remote detonator before he dissasembles the bomb, the player does so, and a HUGE explosion is heard nearby. Will tells the player to go find what was left, which is only Joe's umbrella and trench coat, and Joe's Skull, the player can keep these.
+
+Will thanks the player for staying on his side and tells a bit about Joe. And that yes he actually killed him.
+
+Joe's ghost appears later on somewhere near the player in some nights when he has Joe's skull in his inventory to sell the player nightmare items.
+
+IF JOE PATH IS TAKEN:
+
+Joe tells the player to please start purchasing from him instead, but that he has run out of goods to sell recently, so he sends the player in a mission to steal from Will.
+
+When the player arrives into Will's store there are valuable goods scattered around, which Will wont suspect the player from stealing because he trusts him.
+
+Once the player steals one item from will, he will get pissed off and start saying enraged comments to the player, and finally, he will summon green vine tentacles to attack the player. These vines will appear constantly and iwll not probably let the player steal the rest of the goods, so the player can smack Will to stun him down for a few seconds.
+
+Once the player gives all of the stolen goods to Joe, he will thank the player and offer him a spare umbrella.
+
+Joe rummages about the stolen goods and he finds a disguised remote detonation bomb,  whcih starts ticking, hinting the player to run. A huge explosion happens and Joe is killed, some of the merchant's goods are intact an the player can keep them.
+
+Will is later pissed off at the player and will refuse to sell items to him for 3 days, Joe's ghost appears later on somewhere near the player in some nights when he has Joe's skull in his inventory to sell the player nightmare items.
