@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="200" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt08EKwjAURNEK7tT//10RBDdGk7T1DfYceNuGwtxlAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgX5wC77rrH0O/6hb0QbLqFvRBsuoW9EGy6hb0QbLqFvRBsuoW9EGyb1u9PE8fHJE+oG3Njs8fTh/8g6272KITfZBizzZmG9EHKfZuY6YRfZDiF22MNqIPEtwWfUBLbx9btDHSiD5IkdqHRkiQ2gck0Ae06QPee+xQH/CePqCtt4+tGul9Sx8k0Ad81rvZtY2MvKMPUozsdraR0Tf0QYrR7Y42MvN9fZBiZr89naz5rj5IsWbHe50+SFHdgj5IVt2CPkhW3YI+SFbdgj5IVt2CPkhW3YI+SFbdgj44ulvjWvTB0fV0AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALzcAcjDC1M=
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="200" height="200">
+  <object type="merchant" x="6012" y="5889"/>
+  <object type="spawnpoint" x="6276" y="6176"/>
+  <object type="underworld_light" x="6146" y="6408"/>
+  <object type="underworld_light" x="6250" y="6308"/>
+  <object type="underworld_light" x="6884" y="6110"/>
+  <object type="underworld_light" x="6574" y="6420"/>
+  <object type="underworld_light" x="6302" y="6664"/>
+  <object type="underworld_light" x="6494" y="6890"/>
+  <object type="underworld_light" x="6904" y="6688"/>
+  <object type="underworld_light" x="7084" y="6484"/>
+  <object type="underworld_light" x="6712" y="7016"/>
+  <object type="underworld_light" x="5989" y="5909"/>
+  <object type="underworld_light" x="5987" y="5839"/>
+  <object type="underworld_light" x="6037" y="5843"/>
+  <object type="underworld_light" x="6056" y="5919"/>
+  <object type="underworld_spawner" x="7068" y="6308"/>
+  <object type="underworld_spawner" x="6618" y="7009"/>
+ </objectgroup>
+</map>

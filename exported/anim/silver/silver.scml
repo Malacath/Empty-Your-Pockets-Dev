@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0">
+        <file id="0" name="coin.png" width="64" height="64" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="twocoin.png" width="103" height="37" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="threecoin.png" width="122" height="52" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="silver">
+        <animation id="0" name="single" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="coin" folder="0" file="0" abs_x="-29" abs_y="40" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="coin">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-29" y="40"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="double" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="twocoin" folder="0" file="1" abs_x="-54" abs_y="22" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="twocoin">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="-54" y="22"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="2" name="triple" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="threecoin" folder="0" file="2" abs_x="-64" abs_y="36" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="threecoin">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-64" y="36"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
