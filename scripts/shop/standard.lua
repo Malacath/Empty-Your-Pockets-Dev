@@ -9,7 +9,7 @@ local Upgrades =
 				inst.components.locomotor.walkspeed = inst.components.locomotor.walkspeed * TUNING.UPGRADES.SPEED_MULT.ONE
 				inst.components.locomotor.runspeed = inst.components.locomotor.runspeed * TUNING.UPGRADES.SPEED_MULT.ONE
 			end,
-			image = "bomb_suicide"
+			image = "speed"
 		},
 		{
 			name = STRINGS.UPGRADES.NAMES.SPEED.TWO,
@@ -19,7 +19,7 @@ local Upgrades =
 				inst.components.locomotor.walkspeed = inst.components.locomotor.walkspeed * TUNING.UPGRADES.SPEED_MULT.TWO
 				inst.components.locomotor.runspeed = inst.components.locomotor.runspeed * TUNING.UPGRADES.SPEED_MULT.TWO
 			end,
-			image = "bomb_suicide"
+			image = "speed"
 		},
 		{
 			name = STRINGS.UPGRADES.NAMES.SPEED.THREE,
@@ -29,7 +29,7 @@ local Upgrades =
 				inst.components.locomotor.walkspeed = inst.components.locomotor.walkspeed * TUNING.UPGRADES.SPEED_MULT.THREE
 				inst.components.locomotor.runspeed = inst.components.locomotor.runspeed * TUNING.UPGRADES.SPEED_MULT.THREE
 			end,
-			image = "bomb_suicide"
+			image = "speed_s"
 		},
 	},
 	{
@@ -73,7 +73,7 @@ local Upgrades =
 					inst.components.combat.damagemultiplier = TUNING.UPGRADES.DAMAGE_MULT.ONE
 				end
 			end,
-			image = "bomb_suicide"
+			image = "attack"
 		},
 		{
 			name = STRINGS.UPGRADES.NAMES.DAMAGE.TWO,
@@ -82,7 +82,7 @@ local Upgrades =
 			effectfn = function(inst)
 				inst.components.combat.damagemultiplier = inst.components.combat.damagemultiplier * TUNING.UPGRADES.DAMAGE_MULT.TWO
 			end,
-			image = "bomb_suicide"
+			image = "attack"
 		},
 		{
 			name = STRINGS.UPGRADES.NAMES.DAMAGE.THREE,
@@ -91,7 +91,7 @@ local Upgrades =
 			effectfn = function(inst)
 				inst.components.combat.damagemultiplier = inst.components.combat.damagemultiplier * TUNING.UPGRADES.DAMAGE_MULT.THREE
 			end,
-			image = "bomb_suicide"
+			image = "attack_s"
 		},
 	},
 	{
@@ -121,6 +121,32 @@ local Upgrades =
 				inst.components.sanity.max = inst.components.sanity.max * TUNING.UPGRADES.SANITY_MULT.ONE
 			end,
 			image = "bomb_suicide"
+		},
+	},
+	{
+		{
+			name = STRINGS.UPGRADES.NAMES.COLD.ONE,
+			desc = STRINGS.UPGRADES.TEASER.COLD.ONE,
+			cost = {rocks = 1, silver = 50},
+			effectfn = function(inst)
+			end,
+			image = "coldresistance"
+		},
+		{
+			name = STRINGS.UPGRADES.NAMES.COLD.TWO,
+			desc = STRINGS.UPGRADES.TEASER.COLD.TWO,
+			cost = {goldnugget = 1, silver = 50},
+			effectfn = function(inst)
+			end,
+			image = "coldresistance"
+		},
+		{
+			name = STRINGS.UPGRADES.NAMES.COLD.THREE,
+			desc = STRINGS.UPGRADES.TEASER.COLD.THREE,
+			cost = {marble = 1, silver = 50},
+			effectfn = function(inst)
+			end,
+			image = "coldresistance_s"
 		},
 	},
 }

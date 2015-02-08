@@ -57,6 +57,24 @@ Assets = {
     Asset("IMAGE", "images/money_new.tex"),
     Asset("ATLAS", "images/money_new.xml"),
 
+    Asset("IMAGE", "images/inventoryimages/attack.tex"),
+    Asset("ATLAS", "images/inventoryimages/attack.xml"),
+
+    Asset("IMAGE", "images/inventoryimages/attack_s.tex"),
+    Asset("ATLAS", "images/inventoryimages/attack_s.xml"),
+
+    Asset("IMAGE", "images/inventoryimages/coldresistance.tex"),
+    Asset("ATLAS", "images/inventoryimages/coldresistance.xml"),
+
+    Asset("IMAGE", "images/inventoryimages/coldresistance_s.tex"),
+    Asset("ATLAS", "images/inventoryimages/coldresistance_s.xml"),
+
+    Asset("IMAGE", "images/inventoryimages/speed.tex"),
+    Asset("ATLAS", "images/inventoryimages/speed.xml"),
+
+    Asset("IMAGE", "images/inventoryimages/speed_s.tex"),
+    Asset("ATLAS", "images/inventoryimages/speed_s.xml"),
+
     Asset( "IMAGE", "images/saveslot_portraits/will.tex" ),
     Asset( "ATLAS", "images/saveslot_portraits/will.xml" ),
 
@@ -74,7 +92,7 @@ Assets = {
     Asset( "IMAGE", "images/colour_cubes/hell_cc.tex" ),
     Asset( "IMAGE", "images/colour_cubes/underworld_cc.tex" ),
 
-    Asset( "ANIM", "anim/willnpc.zip")
+    Asset( "ANIM", "anim/willnpc.zip"),
 }
 
 --Add new sounds ---------------------------------------------------------------------------------------
@@ -104,7 +122,6 @@ TradeAction_eyp.str = "Trade with"
 TradeAction_eyp.id = "TRADE_EYP"
 TradeAction_eyp.distance = 2
 TradeAction_eyp.fn = function(act)
-    print("Check target")
     if  (act.target.components.shopkeeper and act.target.components.shopkeeper.doestrade)
         or (act.target.components.shopsection and act.target.components.shopsection.doestrade) then
 
@@ -187,12 +204,12 @@ AddSimPostInit(function(player)
 	--status.money:SetPosition(-50,-475,0)
 	status.money:SetPosition(-1200,-580,0)
 	status.money:SetScale(0.6,0.6,0.6)
-	status.money:SetAmount(status.owner.components.upgradeable.money)
+	status.money:SetAmount(status.owner.components.upgradeable_eyp.money)
 	status.inst:ListenForEvent("moneydelta", function(inst, data)
 		status.money:SetAmount(data.money)
 	end, status.owner)
 
-	player.components.upgradeable:MoneyDelta(289)
+	player.components.upgradeable_eyp:MoneyDelta(289)
 end)
 
 --Modify LootDropper to drop some money ---------------------------------------------------------------------------------------
@@ -370,8 +387,8 @@ AddPrefabPostInit("world", function(inst)
         local inst = oldfn()
  
         -- Add components here.
-        if not inst.components.upgradeable then
-            inst:AddComponent("upgradeable")
+        if not inst.components.upgradeable_eyp then
+            inst:AddComponent("upgradeable_eyp")
         end
  
         return inst

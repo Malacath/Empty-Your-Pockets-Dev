@@ -81,8 +81,9 @@ function Shopping:SetOrientation(horizontal)
 end
 
 function Shopping:UpdateUpgrades()
+    print("Updating all Upgrades")
     self.upgradeslots:Clear()
-    if self.owner and self.owner.components.upgradeable then
+    if self.owner and self.owner.components.upgradeable_eyp then
                 
         local num = 0
 

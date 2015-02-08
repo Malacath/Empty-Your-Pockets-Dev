@@ -37,7 +37,7 @@ local prefabs = {
 
 local function SanityFn(inst)
         local delta = TUNING.SANITYAURA_TINY
-        delta = delta * inst.components.upgradeable.money / 100
+        delta = delta * inst.components.upgradeable_eyp.money / 100
         return delta
 end
 
@@ -52,24 +52,14 @@ local fn = function(inst)
         inst.components.hunger:SetRate(TUNING.WILL_HUNGER_RATE)
         inst.components.combat.damagemultiplier = TUNING.WILL_DAMAGE_MULT
 
-        inst:AddComponent("upgradeable")
-        inst.components.upgradeable:SetDiscount(TUNING.WILL_DISCOUNT)
-        inst.components.upgradeable:MoneyDelta(66)
+        inst:AddComponent("upgradeable_eyp")
+        inst.components.upgradeable_eyp:SetDiscount(TUNING.WILL_DISCOUNT)
+        inst.components.upgradeable_eyp:MoneyDelta(66)
 
+        local oldAddFollower = inst.components.leader.AddFollower
         inst.components.leader.AddFollower = function(self, follower)
+                oldAddFollower(self, follower)
                 if self.followers[follower] == nil and follower.components.follower then
-                        self.followers[follower] = true
-                        self.numfollowers = self.numfollowers + 1
-                        follower.components.follower:SetLeader(self.inst)
-                        follower:PushEvent("startfollowing", {leader = self.inst} )
-                        
-                        self.inst:ListenForEvent("death", function(inst, data) self:RemoveFollower(follower) end, follower)
-                        follower:ListenForEvent("death", function(inst, data) self:RemoveFollower(follower) end, self.inst)
-
-                        if self.inst:HasTag( "player" ) and follower.prefab then
-                                ProfileStatsAdd("befriend_"..follower.prefab)
-                        end
-
                         self.inst:DoTaskInTime(0, function()
                                 follower.components.follower:AddLoyaltyTime(TUNING.WILL_LOYALTY_BONUS)
                         end)

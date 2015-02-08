@@ -170,9 +170,9 @@ NEWSTRINGS = {
 	UPGRADES = {
 		NAMES = {
 			DAMAGE = {
-				ONE = "The Mark",
+				ONE = "Blood of the Martyr",
 				TWO = "A Lump of Coal",
-				THREE = "Blood of the Martyr",
+				THREE = "The Mark",
 			},
 			SPEED = {
 				ONE = "The Belt",
@@ -188,6 +188,11 @@ NEWSTRINGS = {
 				ONE = "<3",
 				TWO = "Blood Bag",
 				THREE = "Raw Liver",
+			},
+			COLD = {
+				ONE = "Hot Bum",
+				TWO = "Pyromaniac",
+				THREE = "Fire Mind",
 			},
 			BOMB = {
 				ONE = "",
@@ -218,6 +223,11 @@ NEWSTRINGS = {
 				THREE = "",
 			},
 			HEALTH = {
+				ONE = "",
+				TWO = "",
+				THREE = "",
+			},
+			COLD = {
 				ONE = "",
 				TWO = "",
 				THREE = "",

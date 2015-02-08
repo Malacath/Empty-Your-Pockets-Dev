@@ -14,12 +14,12 @@ local UpgradePopup = require "widgets/upgradepopup"
 function DoUpgradeClick(owner, upgrade)
     
     if upgrade and owner and owner.components.builder then
-        local can_buy = owner.components.upgradeable:CanBuy(upgrade)
-        local has = owner.components.upgradeable:HasUpgrade(upgrade)
+        local can_buy = owner.components.upgradeable_eyp:CanBuy(upgrade)
+        local has = owner.components.upgradeable_eyp:HasUpgrade(upgrade)
 
         if can_buy and not has then
             --TheFrontEnd:GetSound():PlaySound("dontstarve/HUD/click_move")
-            owner.components.upgradeable:ApplyUpgrade(upgrade)
+            owner.components.upgradeable_eyp:ApplyUpgrade(upgrade)
             return true
         else
             return false
@@ -134,8 +134,8 @@ function UpgradeSlot:SetUpgrade(upgrade)
     end
 
     self:Show()
-    local canbuy = self.owner.components.upgradeable:CanBuy(upgrade)
-    local has = self.owner.components.upgradeable:HasUpgrade(upgrade)
+    local canbuy = self.owner.components.upgradeable_eyp:CanBuy(upgrade)
+    local has = self.owner.components.upgradeable_eyp:HasUpgrade(upgrade)
     
     self.upgrade = upgrade
     if self.upgrade and type(self.upgrade) == "table" then

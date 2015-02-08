@@ -28,25 +28,25 @@ end
 
 local function DeFuseBomb(inst)
 	inst:RemoveEventCallback("healthdelta", function()
-		if owner.components.health.currenthealth <= TUNING.BOMB_RETRIBUTION_THRESH then
+		if inst.owner.components.health.currenthealth <= TUNING.BOMB_RETRIBUTION_THRESH then
 			DetonateBomb(inst)
 		end
-	end, owner)
+	end, inst.owner)
 	inst:RemoveComponent("explosive")
 	inst.owner = nil
 end
 
 local function FuseBomb(inst, owner)
+	inst.owner = owner
 	inst:ListenForEvent("healthdelta", function()
-		if owner.components.health.currenthealth <= TUNING.BOMB_RETRIBUTION_THRESH then
+		if inst.owner.components.health.currenthealth <= TUNING.BOMB_RETRIBUTION_THRESH then
 			DetonateBomb(inst)
 		end
-	end, owner)
+	end, inst.owner)
 	inst:AddComponent("explosive")
 	inst.components.explosive.explosiverange = 10
 	inst.components.explosive.explosivedamage = 400
    	inst.components.explosive:SetOnExplodeFn(OnExplodeFn)
-	inst.owner = owner
 end
 
 local function fn(Sim)

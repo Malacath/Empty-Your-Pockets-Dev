@@ -14,12 +14,12 @@ require "widgets/widgetutil"
 
 function DoUpgradeClick(owner, upgrade)
     
-    if upgrade and owner and owner.components.builder then
-        local can_buy = owner.components.upgradeable:CanBuy(upgrade) 
+    if upgrade and owner and owner.components.upgradeable_eyp then
+        local can_buy = owner.components.upgradeable_eyp:CanBuy(upgrade) 
 
         if can_buy then
             --TheFrontEnd:GetSound():PlaySound("dontstarve/HUD/click_move")
-            owner.components.upgradeable:ApplyUpgrade(upgrade)
+            owner.components.upgradeable_eyp:ApplyUpgrade(upgrade)
 
             return true
         else
@@ -87,8 +87,8 @@ function UpgradePopup:SetUpgrade(upgrade, owner)
     self.upgrade = upgrade
     self.owner = owner
 
-    local can_buy = owner.components.upgradeable:CanBuy(upgrade)
-    local has = owner.components.upgradeable:HasUpgrade(upgrade)
+    local can_buy = owner.components.upgradeable_eyp:CanBuy(upgrade)
+    local has = owner.components.upgradeable_eyp:HasUpgrade(upgrade)
     if has then
         can_buy = false
     end
@@ -140,7 +140,7 @@ function UpgradePopup:SetUpgrade(upgrade, owner)
     
         local has, num_found = owner.components.inventory:Has(k, v)
         if k == "silver" then
-            num_found = owner.components.upgradeable.money
+            num_found = owner.components.upgradeable_eyp.money
             has = (num_found >= v)
         end
 
