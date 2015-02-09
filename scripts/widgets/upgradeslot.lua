@@ -116,6 +116,7 @@ function UpgradeSlot:ShowUpgrade()
     if self.upgrade and self.upgradepopup then
         self:MoveToFront()
         self.upgradepopup:Show()
+        self.upgradepopup:MoveToFront()
         self.upgradepopup:SetUpgrade(self.upgrade, self.owner)
     end
 end

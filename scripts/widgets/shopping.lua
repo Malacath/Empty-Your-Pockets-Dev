@@ -68,13 +68,13 @@ function Shopping:SetOrientation(horizontal)
 
     if horizontal then
         self.downbutton:SetRotation(90)
-        self.downbutton:SetPosition(-self.bg.length/2 - but_w/2 + slot_w/2,0,0)
+        self.downbutton:SetPosition(-self.bg.length/2 - but_w/2 + slot_w/2,-del_x,0)
         self.upbutton:SetRotation(-90)
-        self.upbutton:SetPosition(self.bg.length/2 + but_w/2 - slot_w/2,0,0)
+        self.upbutton:SetPosition(self.bg.length/2 + but_w/2 - slot_w/2,-del_x,0)
     else
-        self.upbutton:SetPosition(0, - self.bg.length/2 - but_h/2 + slot_h/2,0)
+        self.upbutton:SetPosition(-del_x, - self.bg.length/2 - but_h/2 + slot_h/2,0)
         self.downbutton:SetScale(Vector3(1, -1, 1))
-        self.downbutton:SetPosition(0, self.bg.length/2 + but_h/2 - slot_h/2,0)
+        self.downbutton:SetPosition(-del_x, self.bg.length/2 + but_h/2 - slot_h/2,0)
     end
 
 

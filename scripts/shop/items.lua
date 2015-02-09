@@ -2,7 +2,7 @@ local Upgrades =
 {
 	{
 		{
-			name = STRINGS.UPGRADES.NAMES.BOMB.ONE,
+			name = STRINGS.NAMES.BOMB_RETRIBUTION,
 			desc = STRINGS.UPGRADES.TEASER.BOMB.ONE,
 			cost = {rocks = 1, silver = 50},
 			effectfn = function(inst)
@@ -16,7 +16,7 @@ local Upgrades =
 			image = "bomb_suicide"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.BOMB.TWO,
+			name = STRINGS.NAMES.BOMB_RETRIBUTION,
 			desc = STRINGS.UPGRADES.TEASER.BOMB.TWO,
 			cost = {goldnugget = 1, silver = 50},
 			effectfn = function(inst)
@@ -30,7 +30,7 @@ local Upgrades =
 			image = "bomb_suicide"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.BOMB.THREE,
+			name = STRINGS.NAMES.BOMB_SUICIDE,
 			desc = STRINGS.UPGRADES.TEASER.BOMB.THREE,
 			cost = {marble = 1, silver = 50},
 			effectfn = function(inst)
@@ -46,8 +46,8 @@ local Upgrades =
 
 	{
 		{
-			name = STRINGS.UPGRADES.NAMES.GRUE,
-			desc = STRINGS.UPGRADES.TEASER.GRUE,
+			name = STRINGS.NAMES.ANTI_GRUE,
+			desc = STRINGS.UPGRADES.TEASER.ANTI_GRUE,
 			cost = {rocks = 1, silver = 50},
 			effectfn = function(inst)
 				if inst.components.inventory then
@@ -59,8 +59,8 @@ local Upgrades =
 			image = "anti_grue"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.CHESTER,
-			desc = STRINGS.UPGRADES.TEASER.CHESTER,
+			name = STRINGS.NAMES.CHESTER_BE_SAFE,
+			desc = STRINGS.UPGRADES.TEASER.CHESTER_BE_SAFE,
 			cost = {marble = 1, silver = 50},
 			effectfn = function(inst)
 				if inst.components.inventory then
@@ -72,8 +72,8 @@ local Upgrades =
 			image = "chester_be_safe"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.VACUUM,
-			desc = STRINGS.UPGRADES.TEASER.VACUUM,
+			name = STRINGS.NAMES.LIFE_VACUUM,
+			desc = STRINGS.UPGRADES.TEASER.LIFE_VACUUM,
 			cost = {goldnugget = 1, silver = 50},
 			effectfn = function(inst)
 				if inst.components.inventory then
@@ -88,8 +88,8 @@ local Upgrades =
 	},
 	{
 		{
-			name = STRINGS.UPGRADES.NAMES.MOUNRNING_HELMET,
-			desc = STRINGS.UPGRADES.TEASER.MOUNRNING_HELMET,
+			name = STRINGS.NAMES.HAT_MOURNING,
+			desc = STRINGS.UPGRADES.TEASER.HAT_MOURNING,
 			cost = {rocks = 1, silver = 50},
 			effectfn = function(inst)
 				if inst.components.inventory then
@@ -101,7 +101,7 @@ local Upgrades =
 			image = "bomb_suicide"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.POCKET_JUMPER,
+			name = STRINGS.NAMES.POCKET_JUMPER,
 			desc = STRINGS.UPGRADES.TEASER.POCKET_JUMPER,
 			cost = {marble = 1, silver = 50},
 			effectfn = function(inst)
@@ -114,7 +114,7 @@ local Upgrades =
 			image = "bomb_suicide"
 		},
 		{
-			name = STRINGS.UPGRADES.NAMES.MINDSHAKER,
+			name = STRINGS.NAMES.MINDSHAKER,
 			desc = STRINGS.UPGRADES.TEASER.MINDSHAKER,
 			cost = {goldnugget = 1, silver = 50},
 			effectfn = function(inst)
